@@ -67,31 +67,161 @@ var siteConfig = {
     },
     "highlightedFilters": [
       "taxonKey",
-      "verbatimScientificName",
-      "institutionKey",
-      "collectionKey",
-      "catalogNumber",
-      "recordedBy",
-      "identifiedBy"
-    ],
-    "excludedFilters": [
-      "occurrenceStatus",
-      "networkKey",
-      "hostingOrganizationKey",
-      "protocol",
-      "publishingCountry",
-      "institutionCode",
+      "mediaType",
+      "country",
+      "eventDate",
+      "lifeStage",
+      "sex",
+      "identifiedBy",
+      "datasetKey",
+      "publishingOrg",
       "collectionCode"
     ],
-    "defaultEnabledTableColumns": [
-      "features",
-      "institutionKey",
+    "excludedFilters": [
+      // RECORD
+      "basisOfRecord", // MachineObservation for all
       "collectionKey",
+      // "collectionCode",
+      // "datasetId",
+      // "datasetName",
+      "institutionKey",
+      "institutionCode",
+      // "license",
+      
+      // OCCURRENCE
       "catalogNumber",
-      "country",
-      "year",
+      "degreeOfEstablishment",
+      "establishmentMeans",
+      // "lifeStage",
+      // "mediaType",
+      // "occurrenceId",
+      // "occurrenceStatus",
+      // "organismQuantity", TODO: Why are there no data?
+      "organismQuantityType",
+      "pathway",
+      "recordNumber",
       "recordedBy",
-      "identifiedBy"
+      "recordedById",
+      "relativeOrganismQuantity",
+      // "sex",
+
+      // ORGANISM
+      // "organismID",
+      "previousIdentifications",
+
+      // MATERIAL ENTITY
+      "associatedSequences", // TODO: ?
+      "preparations",
+      
+      // EVENT
+      // "endDayOfYear",
+      // "eventId",
+      // "eventDate",
+      "fieldNumber",
+      // "month",
+      "sampleSizeUnit",
+      "sampleSizeValue",
+      // "samplingProtocol",
+      // "startDayOfYear",
+      "year",
+
+      // LOCATION
+      // "gadmGid",
+      // "continent",
+      // "coordinateUncertaintyInMeters",
+      // "country",
+      // "depth",
+      // "distanceFromCentroidInMeters",
+      // "elevation",
+      "georeferencedBy",
+      // "gbifRegion",
+      "higherGeography",
+      "island",
+      "islandGroup",
+      // "locality",
+      // "location",
+      // "publishedByGbifRegion",
+      "stateProvince",
+      "waterBody",
+
+      // GEOLOGICAL CONTEXT
+      "biostratigraphy",
+      "geologicalTime",
+      "lithostratigraphy",
+
+      // IDENTIFICATION
+      // "identifiedBy",
+      "identifiedById",
+      "typeStatus",
+      // "verbatimScientificName",
+      
+      // TAXON
+      // "taxonKey",
+      "taxonId",
+      
+      // PROVENANCE
+      // "datasetKey",
+      // "hostingOrganizationKey",
+      // "networkKey",
+      // "programme",
+      // "projectId",
+      // "publishingOrg",
+      // "publishingCountry",
+      // "protocol",
+      // "repatriated",
+
+      // OTHER
+      // "dwcaExtension",
+      // "gbifId",
+      // "isInCluster",
+      "iucnRedListCategory",
+      "isSequenced"
+      // "issue",
+      // "lastInterpreted",
+      // "taxonomicIssue",
+      // "q"
+    ],
+    "availableTableColumns": [
+      "scientificName",
+      "commonName",
+      "media",
+      "country",
+      "coordinates",
+      "locality",
+      "eventDate",
+      "year",
+      "individualCount",
+      "lifeStage",
+      "sex",
+      "identifiedBy",
+      "datasetKey",
+      "publishingOrg",
+      "collectionCode"
+      // "basisOfRecord",
+      // "catalogNumber",
+      // "collectionKey",
+      // "establishmentMeans",
+      // "features",
+      // "fieldNumber",
+      // "higherGeography",
+      // "institutionCode",
+      // "institutionKey",
+      // "iucnRedListCategory",
+      // "preparations",
+      // "recordedBy",
+      // "recordNumber",
+      // "specimenTriplet",
+      // "stateProvince",
+      // "typeStatus",
+    ],
+    "defaultEnabledTableColumns": [
+      "scientificName",
+      "commonName",
+      "media",
+      "country",
+      "eventDate",
+      "datasetKey",
+      "collectionCode"
     ],
     "tabs": [
       "table",
