@@ -47,7 +47,7 @@ var siteConfig = {
     "enableInfoPopup": false
   },
   "theme": {
-    "primary": themeStyle.colors.primary,
+    "primary": "#001972",
     "borderRadius": 3,
     "stickyOffset": "0px"
   },
