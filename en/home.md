@@ -3,8 +3,8 @@ layout: home
 klass: home
 lang-ref: home
 permalink: /
-title: Wild Tracks
-description: Discover bio-logging data for research and conservation.
+title: Wild Track
+description: Discover animal tracking data for research and conservation.
 # videos: ["/assets/images/wild-boar-inbo.mp4"]
 # imageLicense: "Wild boars (adults and juveniles) captured by a camera trap in Belgium. Video by INBO and UHasselt."
 height: 60vh

@@ -6,7 +6,7 @@ columns:
   - name: About
     description: >
       This website is maintained by WILDLABS and volunteers
-      from the bio-logging community.
+      from the animal tracking community.
       [About this site](/about).
   - name: Code
     description: >
