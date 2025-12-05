@@ -1,6 +1,6 @@
 # SITE SETTINGS
 title: Wild Track
-description: Discover animal tracking data for research and conservation.
+description: Animal tracking data portal
 url: "https://animal-tracking.hp.gbif-staging.org/"
 baseurl: "" # Start with slash if used
 
