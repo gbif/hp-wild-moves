@@ -12,7 +12,7 @@ columns:
     description: >
       This website is open source.
       Have a suggestion or noticed a typo?
-      Submit an issue on [GitHub](https://github.com/gbif/hp-animal-tracking/).
+      Submit an issue on [GitHub](https://github.com/gbif/hp-wild-moves/).
   - name: Contact
     connectIcons: true
 

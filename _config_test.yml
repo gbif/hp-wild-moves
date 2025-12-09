@@ -1,4 +1,4 @@
-url: "https://animal-tracking.hp.gbif-test.org"
+url: "https://wild-moves.hp.gbif-test.org"
 siteMeasurements:
   enable: false
 graphqlEndpoint: "https://graphql.gbif-test.org/graphql"
