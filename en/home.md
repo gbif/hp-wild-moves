@@ -34,8 +34,8 @@ composition:
           href: /dataset/search
         - text: Explore occurrences
           href: /occurrence/search
-    background: "{{ site.data.images.gull.src }}"
-    imageLicense: "{{ site.data.images.gull.caption }}"
+      background: "{{ site.data.images.gull.src }}"
+      imageLicense: "{{ site.data.images.gull.caption }}"
   - type: split
     inlineData:
       title: Make your data discoverable
