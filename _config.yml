@@ -6,7 +6,7 @@ baseurl: "" # Start with slash if used
 
 # SOCIAL PROFILES
 email: info@gbif.org
-github_username: bio-logging
+github_username: gbif/hp-wild-moves
 
 # THEME SETTINGS
 algae:
