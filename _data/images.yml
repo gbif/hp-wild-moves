@@ -6,4 +6,12 @@
 
 gull:
   src: /assets/images/lbbg-73826.jpg
-  caption: Lesser black-backed gull with a GPS tag in Belgium. Photo by Misjel Decleer/VLIZ.
+  caption: Lesser black-backed gull with a GPS tag in Belgium. Image by Misjel Decleer/VLIZ.
+
+receivers:
+  src: /assets/images/otn-receivers-boat.jpg
+  caption: Acoustic receivers ready to be deployed. Image by OTN.
+
+shark-tagging:
+  src: /assets/images/otn-shark-tagging.jpg
+  caption: Tagging of a shark. Image by OTN.

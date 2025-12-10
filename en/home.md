@@ -34,8 +34,8 @@ composition:
           href: /dataset/search
         - text: Explore occurrences
           href: /occurrence/search
-      background: "{{ site.data.images.gull.src }}"
-      imageLicense: "{{ site.data.images.gull.caption }}"
+      background: "{{ site.data.images.shark-tagging.src }}"
+      imageLicense: "{{ site.data.images.shark-tagging.caption }}"
   - type: split
     inlineData:
       title: Make your data discoverable
@@ -46,9 +46,9 @@ composition:
         and it will automatically appear on Wild Moves.
       cta:
         - text: Become a publisher
-          href: https://www.gbif.org/become-a-publisher
-      background: "{{ site.data.images.shark.src }}"
-      imageLicense: "{{ site.data.images.shark.caption }}"
+          href: https://www.gbif.org/become-a-publisher   
+      background: "{{ site.data.images.gull.src }}"
+      imageLicense: "{{ site.data.images.gull.caption }}"
       reverse: true
   - type: floatingText
     inlineData:
