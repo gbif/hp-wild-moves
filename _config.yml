@@ -60,7 +60,7 @@ defaults:
       permalink: "/news/:year/:slug/"
   # Spanish
   - scope:
-      path: es
+      path: pages/es
     values:
       layout: page
       lang: es
