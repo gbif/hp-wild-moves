@@ -58,6 +58,19 @@ var siteConfig = {
       "mapTileLocale": "en"
     },
     {
+      "code": "el",
+      "localeCode": "el",
+      "label": "ελληνικά",
+      "default": false,
+      "textDirection": "ltr",
+      "cmsLocale": "el",
+      "vocabularyLocale": "el-EL",
+      "iso3LetterCode": "ell",
+      "gbifOrgLocalePrefix": "/el",
+      "grSciCollLocalePrefix": "/el",
+      "mapTileLocale": "el",
+    },
+    {
       "code": "es",
       "localeCode": "es",
       "label": "Español",
@@ -69,7 +82,7 @@ var siteConfig = {
       "gbifOrgLocalePrefix": "/es",
       "grSciCollLocalePrefix": "/es",
       "mapTileLocale": "es",
-    },
+    }
   ],
   "messages": {},
   "occurrenceSearch": {

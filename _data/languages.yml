@@ -2,6 +2,9 @@
 en:
   label: English
   archive_permalink: /news/
+el:
+  label: Greek
+  archive_permalink: /el/news/
 es:
   label: Spanish
   archive_permalink: /es/news/

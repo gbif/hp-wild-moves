@@ -1,0 +1,10 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Είδη
+  href: /el/species
+- text: Δεδομένα
+  href: /el/dataset/search
+- text: Παρουσίες ειδών
+  href: /el/occurrence/search
+- text: Σχετικά
+  href: /el/about
