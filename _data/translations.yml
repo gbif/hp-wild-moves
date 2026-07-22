@@ -1,65 +1,83 @@
 # The translations on this page is machine generated and need a review before you use them. They are intended to be used as a starting point for your own translations.
 relatedPosts:
   en: "Related Posts"
+  el: "Σχετικές αναρτήσεις"
   es: "Artículos relacionados"
 
 differentLanguage:
   en: "This page is available in following languages"
+  el: "Αυτή η σελίδα είναι διαθέσιμη στις ακόλουθες γλώσσες"
   es: "Esta página está disponible en los siguientes idiomas"
 
 tocTitle:
   en: "On this page"
+  el: "Σε αυτή τη σελίδα"
   it: "In questa pagina"
 
 terms:
   en: |
     We use cookies on our website. Some are technically necessary, others help us improve your user experience. You can decline non-essential cookies by selecting "Reject". Please see our [Privacy Policy](/privacy) for further information about our privacy practices and use of cookies.
+  el: |
+    Χρησιμοποιούμε cookies στον ιστότοπό μας. Ορισμένα είναι τεχνικώς απαραίτητα, ενώ άλλα μας βοηθούν να βελτιώσουμε την εμπειρία σας. Μπορείτε να απορρίψετε τα μη απαραίτητα cookies επιλέγοντας «Απόρριψη». Ανατρέξτε στην [Πολιτική απορρήτου](/privacy) για περισσότερες πληροφορίες σχετικά με τις πρακτικές απορρήτου και τη χρήση cookies.
   es: |
     Utilizamos cookies en nuestro sitio web. Algunas son técnicamente necesarias, otras nos ayudan a mejorar su experiencia de usuario. Puede rechazar las cookies no esenciales seleccionando "Rechazar". Consulte nuestra [Política de privacidad](/privacy) para obtener más información sobre nuestras prácticas de privacidad y el uso de cookies.
 
 acceptTerms:
   en: "Accept"
+  el: "Αποδοχή"
   es: "Aceptar"
 
 rejectTerms:
   en: "Reject"
+  el: "Απόρριψη"
   es: "Rechazar"
 
 # Used by the stories block type
 contentTypes:
   DataUse:
     en: "Data use"
+    el: "Χρήση δεδομένων"
     es: "Uso de datos"
   News:
     en: "News"
+    el: "Νέα"
     es: "Noticias"
   Event:
     en: "Event"
+    el: "Εκδήλωση"
     es: "Evento"
   Literature:
     en: "Literature"
+    el: "Βιβλιογραφία"
     es: "Literatura"
 
 # Used by species page
 speciesGroups:
   Birds:
     en: "Birds"
+    el: "Πτηνά"
     es: "Aves"
   Bony fish:
     en: "Bony fish"
+    el: "Οστεϊχθύες"
     es: "Peces óseos"
   Invertebrates:
     en: "Invertebrates"
+    el: "Ασπόνδυλα"
     es: "Invertebrados"
   Marine mammals:
     en: "Marine mammals"
+    el: "Θαλάσσια θηλαστικά"
     es: "Mamíferos marinos"
   Reptiles:
     en: "Reptiles"
+    el: "Ερπετά"
     es: "Reptiles"
   Sharks & Rays:
     en: "Sharks & Rays"
+    el: "Καρχαρίες και σαλάχια"
     es: "Tiburones y rayas"
   Terrestrial mammals:
     en: "Terrestrial mammals"
+    el: "Χερσαία θηλαστικά"
     es: "Mamíferos terrestres"

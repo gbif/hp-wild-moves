@@ -58,6 +58,17 @@ defaults:
     values:
       layout: post
       permalink: "/news/:year/:slug/"
+  # Greek
+  - scope:
+      path: el
+    values:
+      layout: page
+      lang: el
+  - scope:
+      path: _posts/el
+    values:
+      layout: post
+      permalink: "/el/news/:year/:slug/"
   # Spanish
   - scope:
       path: es
