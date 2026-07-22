@@ -80,12 +80,12 @@ Language-specific navigation, footer and other files should be placed in `_data/
 - Images should use relative paths: `/assets/images/filename.jpg`
 
 **Use language-specific content directories**:
-- `en/` - English content (default language)
-- `da/` - Danish content (example second language)
+- `pages/en/` - English content (default language)
+- `pages/da/` - Danish content (example second language)
 - Each contains: home.md, about.md, archive.md, data/, etc.
 - Structure should mirror across languages. But the important part is the `lang-ref` in frontmatter to link translations. Two pages with the same `lang-ref` are considered translations of each other.
 
-**`en/data/` and `da/data/` subdirectories** - GBIF data widget pages:
+**`pages/en/data/` and `pages/da/data/` subdirectories** - GBIF data widget pages:
 - Search pages: `occurrences.md`, `datasets.md`, `collection.md`, `institution.md`, `literature.md`, `publisher.md`
 - Detail pages: `occurrenceKey.md`, `datasetKey.md`, `collectionKey.md`, `institutionKey.md`, `publisherKey.md`
 - Use corresponding layouts: `occurrence`, `dataset`, `collection-search`, `institution-search`, `publisher`, plus `-key` variants

@@ -60,7 +60,7 @@ defaults:
       permalink: "/news/:year/:slug/"
   # Greek
   - scope:
-      path: el
+      path: pages/el
     values:
       layout: page
       lang: el
@@ -71,7 +71,7 @@ defaults:
       permalink: "/el/news/:year/:slug/"
   # Spanish
   - scope:
-      path: es
+      path: pages/es
     values:
       layout: page
       lang: es
