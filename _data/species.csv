@@ -193,95 +193,95 @@ speciesKey,species,occurrenceCount,vernacularNameEn,vernacularNameEs,vernacularN
 2359706,Rutilus rutilus,1037,Common Roach,,Τσιρόνι,https://inaturalist-open-data.s3.amazonaws.com/photos/523855041/medium.jpg,https://www.inaturalist.org/observations/291170776,michal_michlewicz,Bony fish,LC
 9400747,Pateobatis jenkinsii,998,Jenkins' Whipray,,,,,,Sharks & Rays,EN
 2393382,Eleutheronema tetradactylum,993,Fourfinger Threadfin,,,,,,Bony fish,
-2481741,Calidris ferruginea,962,Curlew Sandpiper,,Δρεπανοσκαλίδρα,,,,Birds,
+2481741,Calidris ferruginea,962,Curlew Sandpiper,,Δρεπανοσκαλίδρα,,,,Birds,VU
 9716608,Hydrophis hardwickii,845,Hardwicke’s Spine-bellied Sea Snake,,,,,,Reptiles,
-5216276,Pristis pristis,838,Common Sawfish,,Πρίστης μικρόδοντος,,,,Sharks & Rays,
-2391331,Gnathanodon speciosus,820,Golden Trevally,,Χρυσό τρεβάλι,,,,Bony fish,
-2374255,Scomberomorus commerson,809,Narrow-banded Spanish Mackerel,,Ταινιοπαλαμίδα,,,,Bony fish,
-2389100,Variola louti,795,,,,,,,,
-2417522,Rhincodon typus,784,,,Φαλαινοκαρχαρίας,,,,,
-2374866,Lethrinus atkinsoni,757,,,,,,,,
-9298603,Maculabatis astra,633,,,,,,,,
-2417964,Carcharhinus galapagensis,580,,,Καρχαρίας των Γκαλαπάγκος,,,,,
-2434584,Cerdocyon thous,559,Crab-eating Fox,,Καβουροφάγα αλεπού,,,,Terrestrial mammals,
-2225562,Scylla serrata,544,,,,,,,,
+5216276,Pristis pristis,838,Common Sawfish,,Πρίστης μικρόδοντος,,,,Sharks & Rays,CR
+2391331,Gnathanodon speciosus,820,Golden Trevally,,Χρυσό τρεβάλι,,,,Bony fish,LC
+2374255,Scomberomorus commerson,809,Narrow-banded Spanish Mackerel,,Ταινιοπαλαμίδα,,,,Bony fish,NT
+2389100,Variola louti,795,Yellow-edged Lyretail,,,,,,Bony fish,LC
+2417522,Rhincodon typus,784,Whale Shark,,Φαλαινοκαρχαρίας,,,,Sharks & Rays,EN
+2374866,Lethrinus atkinsoni,757,Yellowtail Emperor,,,,,,Bony fish,LC
+9298603,Maculabatis astra,633,Blackspotted Whipray,,,,,,Sharks & Rays,NT
+2417964,Carcharhinus galapagensis,580,Galápagos Shark,,Καρχαρίας των Γκαλαπάγκος,,,,Sharks & Rays,LC
+2434584,Cerdocyon thous,559,Crab-eating Fox,,Καβουροφάγα αλεπού,,,,Terrestrial mammals,LC
+2225562,Scylla serrata,544,Mud Crab,,,,,,Invertebrates,
 2391092,Lichia amia,496,Leerfish,,Λίτζα,https://inaturalist-open-data.s3.amazonaws.com/photos/190268220/medium.jpg,https://www.inaturalist.org/observations/112637919,Roberto Pillon,Bony fish,LC
 5711980,Oncorhynchus clarkii,493,Coastal Cutthroat Trout,,Αμερικανική πρασινόρραχη πέστροφα,https://inaturalist-open-data.s3.amazonaws.com/photos/5295841/medium.jpeg,https://www.inaturalist.org/observations/4408188,Justin Garwood,Bony fish,LC
-5211134,Chlorurus sordidus,492,,,,,,,,
+5211134,Chlorurus sordidus,492,,,,,,,,LC
 4284020,Salvelinus malma,460,Dolly Varden,,Σαλβελίνος του Ειρηνικού,https://inaturalist-open-data.s3.amazonaws.com/photos/106187399/medium.jpg,https://www.inaturalist.org/observations/65925069,Ashley M Bradford,Bony fish,LC
 5201387,Platycephalus bassensis,448,,,,,,,,
-2418184,Carcharhinus sorrah,435,,,,,,,,
-2481458,Pterodroma cervicalis,430,White-necked Petrel,,,,,,Birds,
-2418939,Rhynchobatus laevis,430,,,,,,,,
-2381939,Coryphaena hippurus,393,,,Κυνηγός,,,,,
+2418184,Carcharhinus sorrah,435,,,,,,,,NT
+2481458,Pterodroma cervicalis,430,White-necked Petrel,,,,,,Birds,VU
+2418939,Rhynchobatus laevis,430,,,,,,,,CR
+2381939,Coryphaena hippurus,393,,,Κυνηγός,,,,,LC
 9245001,Hypanus sabinus,388,Atlantic Stingray,,,https://inaturalist-open-data.s3.amazonaws.com/photos/111421489/medium.jpg,https://www.inaturalist.org/observations/68761309,Dylan Jacques-Fero,Sharks & Rays,LC
-2440735,Balaenoptera musculus,386,Blue Whale,,Γαλάζια φάλαινα,,,,Marine mammals,
-5960332,Hydrophis elegans,358,,,,,,,,
-5215568,Loxodon macrorhinus,322,,,,,,,,
-5789284,Onychoprion fuscatus,310,Sooty Tern,,Δρεπανίδα,,,,Birds,
-2418633,Cephaloscyllium laticeps,299,,,,,,,,
+2440735,Balaenoptera musculus,386,Blue Whale,,Γαλάζια φάλαινα,,,,Marine mammals,EN
+5960332,Hydrophis elegans,358,,,,,,,,LC
+5215568,Loxodon macrorhinus,322,,,,,,,,NT
+5789284,Onychoprion fuscatus,310,Sooty Tern,,Δρεπανίδα,,,,Birds,LC
+2418633,Cephaloscyllium laticeps,299,,,,,,,,LC
 2418312,Mustelus canis,284,Dusky Smooth-Hound,,,https://inaturalist-open-data.s3.amazonaws.com/photos/77336365/medium.jpg,https://www.inaturalist.org/observations/48730813,Phil Colarusso,Sharks & Rays,NT
 2440605,Globicephala macrorhynchus,277,Short-finned Pilot Whale,,Τροπικό μαυροδέλφινο,https://inaturalist-open-data.s3.amazonaws.com/photos/159806977/medium.jpeg,https://www.inaturalist.org/observations/96210120,dnoby,Marine mammals,LC
 5201392,Platycephalus richardsoni,276,,,,,,,,
-2419580,Urogymnus asperrimus,246,,,,,,,,
+2419580,Urogymnus asperrimus,246,,,,,,,,EN
 2417983,Carcharhinus brevipinna,224,Spinner Shark,,Καρχαρίνος κοντόφτερος,https://inaturalist-open-data.s3.amazonaws.com/photos/141413830/medium.jpg,https://www.inaturalist.org/observations/85898648,Niall Perrins,Sharks & Rays,VU
-2385226,Aprion virescens,220,,,Πράσινη συναγρίδα Ινδο-Ειρηνικού,,,,,
-2417418,Callorhinchus milii,204,,,,,,,,
-2384899,Lutjanus sebae,167,,,Αυτοκρατορικός κόκκινος λουτιάνος,,,,,
+2385226,Aprion virescens,220,,,Πράσινη συναγρίδα Ινδο-Ειρηνικού,,,,,LC
+2417418,Callorhinchus milii,204,,,,,,,,LC
+2384899,Lutjanus sebae,167,,,Αυτοκρατορικός κόκκινος λουτιάνος,,,,,LC
 2392142,Nemadactylus douglasii,165,,,Νημαδάκτυλος,,,,,
-2419415,Trygonoptera testacea,158,,,,,,,,
 9548142,Mobula birostris,162,,,,,,,,EN
+2419415,Trygonoptera testacea,158,,,,,,,,NT
 2388137,Epinephelus tauvina,154,,,,,,,,
-5215493,Brachaelurus waddi,145,,,,,,,,
+5215493,Brachaelurus waddi,145,,,,,,,,LC
 2340972,Ameiurus catus,129,,,,,,,,LC
 8006460,Anarhichas lupus,120,Atlantic Wolffish,,Λυκόψαρο,https://inaturalist-open-data.s3.amazonaws.com/photos/107915036/medium.jpg,https://www.inaturalist.org/observations/66879325,Alex Shure,Bony fish,
-2440709,Balaenoptera borealis,112,,,Βορειοφάλαινα,,,,,
-2417557,Orectolobus halei,112,,,,,,,,
-5209124,Naso unicornis,108,,,,,,,,
-2392273,Acanthopagrus butcheri,106,,,Μαύρη τσιπούρα Αυστραλίας,,,,,
+2440709,Balaenoptera borealis,112,,,Βορειοφάλαινα,,,,,EN
+2417557,Orectolobus halei,112,,,,,,,,LC
+5209124,Naso unicornis,108,,,,,,,,LC
+2392273,Acanthopagrus butcheri,106,,,Μαύρη τσιπούρα Αυστραλίας,,,,,LC
 2420446,Amblyraja radiata,104,Thorny Skate,,Ακτινόβατος,https://inaturalist-open-data.s3.amazonaws.com/photos/25578838/medium.jpg,https://www.inaturalist.org/observations/16927157,Tatiana Antokhina,Sharks & Rays,VU
-7466803,Carcharhinus coatesi,100,,,,,,,,
-2408813,Pseudorhombus arsius,94,,,,,,,,
+7466803,Carcharhinus coatesi,100,,,,,,,,LC
+2408813,Pseudorhombus arsius,94,,,,,,,,LC
 5208090,Pomatomus saltatrix,92,Bluefish,,Γοφάρι,https://inaturalist-open-data.s3.amazonaws.com/photos/14722080/medium.jpg,https://www.inaturalist.org/observations/10566359,Peter,Bony fish,VU
 2351244,Salvelinus confluentus,89,Bull Trout,,,https://inaturalist-open-data.s3.amazonaws.com/photos/231323307/medium.jpeg,https://www.inaturalist.org/observations/135611166,Jon David Nelson,Bony fish,VU
-2418825,Eusphyra blochii,85,,,Ζύγαινα,,,,,
-2388492,Epinephelus rivulatus,74,,,,,,,,
+2418825,Eusphyra blochii,85,,,Ζύγαινα,,,,,CR
+2388492,Epinephelus rivulatus,74,,,,,,,,LC
 5201397,Platycephalus laevigatus,72,,,,,,,,
 8178301,Platycephalus grandispinis,71,,,,,,,,
-5712356,Anguilla australis,70,,,Κοντόπτερο αυστραλιανό χέλι,,,,,
-2433480,Arctocephalus australis,52,South American Fur Seal,,Γουνοφόρα Φώκια Της Νέας Ζηλανδίας,,,,Marine mammals,
-2406841,Meuschenia freycineti,52,,,,,,,,
-2418252,Furgaleus macki,50,,,,,,,,
+5712356,Anguilla australis,70,,,Κοντόπτερο αυστραλιανό χέλι,,,,,NT
+2433480,Arctocephalus australis,52,South American Fur Seal,,Γουνοφόρα Φώκια Της Νέας Ζηλανδίας,,,,Marine mammals,LC
+2406841,Meuschenia freycineti,52,,,,,,,,LC
+2418252,Furgaleus macki,50,,,,,,,,LC
 2415853,Gadus macrocephalus,50,Pacific Cod,,Μπακαλιάρος,https://inaturalist-open-data.s3.amazonaws.com/photos/340745230/medium.jpg,https://www.inaturalist.org/observations/193926226,dpcmiller,Bony fish,
-2391929,Sillago sihama,50,,,Σίλαγγος,,,,,
-2420848,Anoxypristis cuspidata,42,,,Πριονόψαρο,,,,,
+2391929,Sillago sihama,50,,,Σίλαγγος,,,,,LC
+2420848,Anoxypristis cuspidata,42,,,Πριονόψαρο,,,,,CR
 2415893,Microgadus tomcod,42,Atlantic Tomcod,,,https://inaturalist-open-data.s3.amazonaws.com/photos/350861616/medium.jpg,https://www.inaturalist.org/observations/199002989,Flore du quartier,Bony fish,LC
 8236498,Petromyzon marinus,22,Sea Lamprey,,Πετρόμυζον,https://inaturalist-open-data.s3.amazonaws.com/photos/285915486/medium.jpeg,https://www.inaturalist.org/observations/165189560,Jill DeVito,Bony fish,LC
 2382906,Pomadasys commersonnii,20,Small-spotted Grunter,,,https://inaturalist-open-data.s3.amazonaws.com/photos/173395767/medium.jpeg,https://www.inaturalist.org/observations/103583156,Craig Peter,Bony fish,LC
-2407011,Nelusetta ayraud,19,,,,,,,,
-2449923,Hydrophis major,16,,,,,,,,
-5208684,Kuhlia rupestris,16,,,,,,,,
-5216248,Isurus oxyrinchus,14,,,Ρυγχοκαρχαρίας,,,,,
+2407011,Nelusetta ayraud,19,,,,,,,,LC
 5202520,Ictalurus punctatus,18,,,,,,,,LC
+2449923,Hydrophis major,16,,,,,,,,LC
+5208684,Kuhlia rupestris,16,,,,,,,,LC
+5216248,Isurus oxyrinchus,14,,,Ρυγχοκαρχαρίας,,,,,EN
 2409370,Parophrys vetulus,14,English Sole,,,https://inaturalist-open-data.s3.amazonaws.com/photos/434065415/medium.jpeg,https://www.inaturalist.org/observations/243428500,André Giraldi,Bony fish,LC
-2393577,Scarus ghobban,6,,,Ξενικός σκάρος,,,,,
-5216288,Pristis zijsron,5,,,Πριονόψαρο,,,,,
-2450128,Aipysurus duboisii,4,,,,,,,,
-5215649,Hemipristis elongata,4,,,,,,,,
-5215903,Himantura leoparda,4,,,,,,,,
-5201384,Platycephalus speculator,3,,,,,,,,
-2373980,Thunnus thynnus,3,Atlantic Bluefin Tuna,,Ερυθρός τόνος,https://inaturalist-open-data.s3.amazonaws.com/photos/161933338/medium.jpeg,https://www.inaturalist.org/observations/97375616,Sylvain Le Bris,Bony fish,LC
-2450131,Aipysurus laevis,2,,,,,,,,
-2417988,Carcharhinus amblyrhynchoides,2,,,,,,,,
-2417820,Pristiophorus nudipinnis,2,,,,,,,,
-2374268,Scomberomorus maculatus,2,Atlantic Spanish Mackerel,,Σκουμπρί Ισπανίας,https://inaturalist-open-data.s3.amazonaws.com/photos/414572804/medium.jpg,https://www.inaturalist.org/observations/233287345,Frank Krasovec,Bony fish,LC
-7403268,Acanthopagrus morrisoni,1,,,,,,,,
-2390836,Caranx lugubris,1,,,,,,,,
-2439920,Didelphis marsupialis,1,Southern Opossum,,Κοινό Πόσουμ,,,,Terrestrial mammals,
-2393846,Hipposcarus longiceps,1,,,,,,,,
-2418938,Rhynchobatus palpebratus,1,,,,,,,,
+2393577,Scarus ghobban,6,,,Ξενικός σκάρος,,,,,LC
+5216288,Pristis zijsron,5,,,Πριονόψαρο,,,,,CR
 4353G,2394563,Micropterus salmoides,5,,,,,,,,LC
 4Q9YG,5205694,Ptychocheilus grandis,5,,,,,,,,LC
+65V4P,2450128,Aipysurus duboisii,4,,,,,,,,LC
+3KRYJ,5215649,Hemipristis elongata,4,,,,,,,,EN
+3LY3S,5215903,Himantura leoparda,4,,,,,,,,EN
+4JP6F,5201384,Platycephalus speculator,3,,,,,,,,
+56P7Q,2373980,Thunnus thynnus,3,Atlantic Bluefin Tuna,,Ερυθρός τόνος,https://inaturalist-open-data.s3.amazonaws.com/photos/161933338/medium.jpeg,https://www.inaturalist.org/observations/97375616,Sylvain Le Bris,Bony fish,LC
+5TV4N,2450131,Aipysurus laevis,2,,,,,,,,LC
+R3MH,2417988,Carcharhinus amblyrhynchoides,2,,,,,,,,VU
+4MJWG,2417820,Pristiophorus nudipinnis,2,,,,,,,,LC
+4VTXG,2374268,Scomberomorus maculatus,2,Atlantic Spanish Mackerel,,Σκουμπρί Ισπανίας,https://inaturalist-open-data.s3.amazonaws.com/photos/414572804/medium.jpg,https://www.inaturalist.org/observations/233287345,Frank Krasovec,Bony fish,LC
+8YVK,7403268,Acanthopagrus morrisonae,1,,,,,,,,LC
+R2QX,2390836,Caranx lugubris,1,,,,,,,,LC
+35WKD,2439920,Didelphis marsupialis,1,Southern Opossum,,Κοινό Πόσουμ,,,,Terrestrial mammals,LC
+3M35P,2393846,Hipposcarus longiceps,1,,,,,,,,LC
+4SRJH,2418938,Rhynchobatus palpebratus,1,,,,,,,,NT
 GMX9,5202927,Ariopsis felis,1,,,,,,,,LC
 6KFCS,2417495,Ginglymostoma cirratum,0,Nurse Shark,,Καρχαρίας τροφός,https://inaturalist-open-data.s3.amazonaws.com/photos/439764980/medium.jpeg,https://www.inaturalist.org/observations/246346292,CONANP_Reserva de la Biosfera Banco Chinchorro,Sharks & Rays,VU
 464NF,2417919,Negaprion brevirostris,0,Lemon Shark,,Κίτρινος καρχαρίας,https://inaturalist-open-data.s3.amazonaws.com/photos/628189776/medium.jpg,https://www.inaturalist.org/observations/344753345,Steve Cappell,Sharks & Rays,VU
