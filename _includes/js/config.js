@@ -23,6 +23,8 @@ var siteConfig = {
     "OCCURRENCE",
     "DATASET"
   ],
+  "availableChecklistKeys": ["7ddf754f-d193-4cc9-b351-99906754a03b"],
+  "defaultChecklistKey": "7ddf754f-d193-4cc9-b351-99906754a03b", 
   "dataHeader": {
     "enableApiPopup": true,
     "enableInfoPopup": false

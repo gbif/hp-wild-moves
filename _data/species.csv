@@ -1,287 +1,287 @@
 speciesKey,species,occurrenceCount,vernacularNameEn,vernacularNameEs,vernacularNameEl,imageSrc,imageUrl,imageBy,speciesGroup,iucnRedListCategory
-2481174,Larus fuscus,4009134,Lesser Black-backed Gull,Gaviota sombría,Μελανόγλαρος,https://inaturalist-open-data.s3.amazonaws.com/photos/111114484/medium.jpeg,https://www.inaturalist.org/observations/68596025,Andrew Bazdyrev,Birds,LC
-2481139,Larus argentatus,2673053,European Herring Gull,Gaviota argéntea,Ασημόγλαρος,https://inaturalist-open-data.s3.amazonaws.com/photos/636514055/medium.jpg,https://www.inaturalist.org/observations/348963009,Jason Thompson,Birds,LC
-8084280,Gadus morhua,1777816,Atlantic Cod,Bacalao común,Μπακαλιάρος του Ατλαντικού,https://inaturalist-open-data.s3.amazonaws.com/photos/541436632/medium.jpg,https://www.inaturalist.org/observations/300496831,Kim Nesbitt,Bony fish,VU
-8215487,Salmo trutta,1072476,Brown Trout,Trucha común,Πέστροφα,https://inaturalist-open-data.s3.amazonaws.com/photos/153521117/medium.jpg,https://www.inaturalist.org/observations/92696622,Olly Morgan,Bony fish,LC
-7788295,Haematopus ostralegus,1038140,Eurasian Oystercatcher,Ostrero euroasiático,Στρειδοφάγος,https://inaturalist-open-data.s3.amazonaws.com/photos/1039273/medium.jpg,https://www.inaturalist.org/observations/823427,Brian Gratwicke,Birds,NT
-2480389,Gyps fulvus,973808,Eurasian Griffon,Buitre leonado​,Όρνιο,https://inaturalist-open-data.s3.amazonaws.com/photos/449977975/medium.jpg,https://www.inaturalist.org/observations/251479613,Quentin Gaillard,Birds,LC
-2333785,Myoxocephalus scorpius,775533,Shorthorn Sculpin,,Σκορπιός της θάλασσας,https://inaturalist-open-data.s3.amazonaws.com/photos/398763231/medium.jpeg,https://www.inaturalist.org/observations/224955938,Kian Hayles-Cotton,Bony fish,LC
-2226639,Chionoecetes opilio,691379,Snow Crab,Cangrejo azul de las nieves,Καβούρι του χιονιού,https://inaturalist-open-data.s3.amazonaws.com/photos/31353551/medium.jpg,https://www.inaturalist.org/observations/20307202,Georgy Vinogradov,Invertebrates,
-2481646,Eudyptula minor,493654,Little Penguin,Pingüino azul,Μικρός Μπλε Πιγκουίνος,https://inaturalist-open-data.s3.amazonaws.com/photos/243990665/medium.jpeg,https://www.inaturalist.org/observations/142329640,johnnoh,Birds,LC
-2415822,Melanogrammus aeglefinus,378466,Haddock,,,https://inaturalist-open-data.s3.amazonaws.com/photos/318932194/medium.jpg,https://www.inaturalist.org/observations/182871020,Vsevolod Rudyi,Bony fish,VU
-2474950,Grus grus,358712,Common Crane,Grulla común,Γερανός,https://inaturalist-open-data.s3.amazonaws.com/photos/227565252/medium.jpg,https://www.inaturalist.org/observations/133585813,Vsevolod Rudyi,Birds,LC
-5972004,Homarus americanus,335827,American Lobster,Bogavante americano,Αμερικανικός αστακός,https://inaturalist-open-data.s3.amazonaws.com/photos/31318271/medium.jpg,https://www.inaturalist.org/observations/20286880,Bob Semple,Invertebrates,LC
-2480482,Circus aeruginosus,335433,Western Marsh Harrier,Aguilucho lagunero occidental,Καλαμόκιρκος,https://inaturalist-open-data.s3.amazonaws.com/photos/121481252/medium.jpg,https://www.inaturalist.org/observations/74337384,Artem Kuznetsov,Birds,LC
-5212973,Anguilla anguilla,332194,European Eel,Anguila europea,Χέλι,https://inaturalist-open-data.s3.amazonaws.com/photos/316049128/medium.jpeg,https://www.inaturalist.org/observations/181365760,Nicola Crockford,Bony fish,CR
-2333802,Myoxocephalus octodecemspinosus,325330,Longhorn Sculpin,,,https://inaturalist-open-data.s3.amazonaws.com/photos/374555081/medium.jpeg,https://www.inaturalist.org/observations/211920189,Lara Gibson,Bony fish,
-4284021,Salvelinus alpinus,320271,Arctic Char,Salvelino,Αρκτοσαλβελίνος,https://inaturalist-open-data.s3.amazonaws.com/photos/256781750/medium.jpeg,https://www.inaturalist.org/observations/149052430,Игорь Загребин,Bony fish,LC
-7595433,Salmo salar,302855,Atlantic Salmon,Salmón común,Σολομός του Ατλαντικού,https://inaturalist-open-data.s3.amazonaws.com/photos/555838239/medium.jpg,https://www.inaturalist.org/observations/308109504,v_moss,Bony fish,NT
-2480970,Sula variegata,299891,Peruvian Booby,Piquero peruano,Περουβιανή σούλα,https://inaturalist-open-data.s3.amazonaws.com/photos/210308716/medium.jpg,https://www.inaturalist.org/observations/124098338,Frédéric LEVIEZ,Birds,LC
-2402120,Acipenser fulvescens,291762,Lake Sturgeon,Esturión de lago,Στουριόνι,https://inaturalist-open-data.s3.amazonaws.com/photos/522174507/medium.jpg,https://www.inaturalist.org/observations/290276856,Below Blue Water Diver,Bony fish,EN
-2417981,Carcharhinus melanopterus,222104,Blacktip Reef Shark,Tiburón punta negra de arrecife,Καρχαρίνος μελανόφτερος,https://inaturalist-open-data.s3.amazonaws.com/photos/436348367/medium.jpeg,https://www.inaturalist.org/observations/244609491,Leona Kustra,Sharks & Rays,VU
-2434806,Halichoerus grypus,219519,Grey Seal,Foca gris,Γκρίζα φώκια,https://inaturalist-open-data.s3.amazonaws.com/photos/360702762/medium.jpg,https://www.inaturalist.org/observations/204097481,Charles Tuberdyke,Marine mammals,LC
-2418064,Carcharhinus amblyrhynchos,213681,Grey Reef Shark,Tiburón gris,Τεφρός καρχαρίας,https://inaturalist-open-data.s3.amazonaws.com/photos/333199230/medium.jpg,https://www.inaturalist.org/observations/190112937,Etienne Guitton,Sharks & Rays,EN
-2402122,Acipenser transmontanus,207013,White Sturgeon,Esturión blanco,Οξύρρυγχος ο υπερορεινός,https://inaturalist-open-data.s3.amazonaws.com/photos/627931068/medium.jpg,https://www.inaturalist.org/observations/344614581,mlyons7,Bony fish,VU
-8151548,Ichthyaetus melanocephalus,205983,Mediterranean Gull,Gaviota cabecinegra,Μελανοκέφαλος γλάρος,https://inaturalist-open-data.s3.amazonaws.com/photos/76875465/medium.png,https://www.inaturalist.org/observations/48448425,Paolo Zucca,Birds,LC
-5204024,Oncorhynchus tshawytscha,157211,Chinook Salmon,Salmón real,Σολομός Σινούκ,https://inaturalist-open-data.s3.amazonaws.com/photos/330188705/medium.jpeg,https://www.inaturalist.org/observations/188623212,sfreeman7,Bony fish,LC
-2480975,Sula leucogaster,149311,Brown Booby,Piquero pardo,Καστανόσουλα,https://inaturalist-open-data.s3.amazonaws.com/photos/325883613/medium.jpg,https://www.inaturalist.org/observations/186472268,Ryan Douglas,Birds,LC
-2442225,Chelonia mydas,145664,Green Sea Turtle,Tortuga verde,Πράσινη χελώνα,https://inaturalist-open-data.s3.amazonaws.com/photos/222581734/medium.jpg,https://www.inaturalist.org/observations/130847742,bradenrice13,Reptiles,LC
-2480509,Aquila clanga,141656,Greater Spotted Eagle,Águila moteada,Στικταετός,https://inaturalist-open-data.s3.amazonaws.com/photos/460444126/medium.jpg,https://www.inaturalist.org/observations/256765220,cog2022,Birds,VU
-2394612,Morone saxatilis,140912,Striped Bass,Lubina rayada atlántica,Ταινιωτό λαβράκι,https://inaturalist-open-data.s3.amazonaws.com/photos/170972334/medium.jpg,https://www.inaturalist.org/observations/102298548,Christian Back,Bony fish,LC
-2480495,Circus pygargus,126510,Montagu's Harrier,Aguilucho cenizo,Λιβαδόκιρκος,https://inaturalist-open-data.s3.amazonaws.com/photos/658135904/medium.jpg,https://www.inaturalist.org/observations/360668298,Roman Gunchin,Birds,LC
-2481909,Ciconia nigra,108179,Black Stork,Cigüeña negra,Μαυροπελαργός,https://inaturalist-open-data.s3.amazonaws.com/photos/627006478/medium.jpg,https://www.inaturalist.org/observations/344140448,Darren Obbard,Birds,LC
-5202525,Ictalurus furcatus,106865,Blue Catfish,Bagre azul,Μπλε γατόψαρο,https://inaturalist-open-data.s3.amazonaws.com/photos/417341337/medium.jpeg,https://www.inaturalist.org/observations/234718340,gwen2012,Bony fish,LC
-2480449,Haliaeetus albicilla,98231,White-tailed Eagle,Pigargo europeo​,Θαλασσαετός,https://inaturalist-open-data.s3.amazonaws.com/photos/512049225/medium.jpg,https://www.inaturalist.org/observations/284898437,Wolfgang Bettighofer,Birds,LC
-2480801,Platalea leucorodia,94975,Eurasian Spoonbill,Espátula común,Χουλιαρομύτα,https://inaturalist-open-data.s3.amazonaws.com/photos/510417211/medium.jpg,https://www.inaturalist.org/observations/284036721,Meike Pa,Birds,LC
-2480537,Buteo buteo,93602,Common Buzzard,,Γερακίνα,https://inaturalist-open-data.s3.amazonaws.com/photos/334076359/medium.jpg,https://www.inaturalist.org/observations/190551903,Davide Diana,Birds,LC
-2418036,Carcharhinus leucas,93293,Bull Shark,Tiburón toro,Ταυροκαρχαρίας,https://inaturalist-open-data.s3.amazonaws.com/photos/323478792/medium.jpg,https://www.inaturalist.org/observations/185236225,Pablo A. Arias Cid,Sharks & Rays,VU
-8894817,Caretta caretta,89790,Loggerhead Sea Turtle,Tortuga boba,Χελώνα Καρέττα,https://inaturalist-open-data.s3.amazonaws.com/photos/228915238/medium.jpg,https://www.inaturalist.org/observations/134311274,alk Viczian Solarboot-Projekte gGmbH,Reptiles,VU
-2480505,Aquila pomarina,79449,Lesser Spotted Eagle,Águila pomerana,Σπιζαετός,https://inaturalist-open-data.s3.amazonaws.com/photos/300371533/medium.jpeg,https://www.inaturalist.org/observations/172988389,zametnya,Birds,LC
-2433484,Neophoca cinerea,76865,Australian Sea Lion,León marino australiano,Θαλάσσιο Λιοντάρι Της Αυστραλίας,https://inaturalist-open-data.s3.amazonaws.com/photos/31212965/medium.png,https://www.inaturalist.org/observations/20220397,René Campbell,Marine mammals,EN
-2480189,Fregata magnificens,74050,Magnificent Frigatebird,Fragata común,Μεγαλόπρεπη φρεγάτα,https://inaturalist-open-data.s3.amazonaws.com/photos/60156244/medium.jpeg,https://www.inaturalist.org/observations/37902108,Kary Rules,Birds,LC
-5204039,Oncorhynchus nerka,68817,Sockeye Salmon,Salmón rojo,Κόκκινος σολομός,https://inaturalist-open-data.s3.amazonaws.com/photos/580724257/medium.jpg,https://www.inaturalist.org/observations/321133215,Spencer Hurt,Bony fish,LC
-2480726,Pandion haliaetus,64146,Osprey,Águila pescadora,Ψαραετός,https://inaturalist-open-data.s3.amazonaws.com/photos/185494513/medium.jpeg,https://www.inaturalist.org/observations/110002552,Leonardo Hernández Escudero,Birds,LC
-2481792,Numenius arquata,62960,Eurasian Curlew,Zarapito real,Τουρλίδα,https://inaturalist-open-data.s3.amazonaws.com/photos/149829117/medium.jpg,https://www.inaturalist.org/observations/90641853,alexey_nesmelov,Birds,NT
-2481171,Larus armenicus,60504,Armenian Gull,,,https://inaturalist-open-data.s3.amazonaws.com/photos/727992995/medium.jpg,https://www.inaturalist.org/observations/396952797,Donsky,Birds,LC
-2441333,Crocodylus porosus,59564,Saltwater Crocodile,Cocodrilo marino,Θαλασσινός κροκόδειλος,https://inaturalist-open-data.s3.amazonaws.com/photos/116226919/medium.jpeg,https://www.inaturalist.org/observations/71391005,Jafet Potenzo Lopes,Reptiles,LC
-5216368,Squalus acanthias,54156,Spiny Dogfish,Mielga,Ακανθίας,https://inaturalist-open-data.s3.amazonaws.com/photos/227069143/medium.jpeg,https://www.inaturalist.org/observations/133317082,whale_nerd,Sharks & Rays,VU
-2402118,Acipenser medirostris,53913,Green Sturgeon,,,,,,Bony fish,EN
-2440403,Mesoplodon densirostris,51316,Dense-beaked Whale,,Πυκνόρυγχος μεσοπλόδοντας,https://inaturalist-open-data.s3.amazonaws.com/photos/189872487/medium.jpg,https://www.inaturalist.org/observations/112415666,Karolle Wall,Marine mammals,LC
-2435246,Lynx rufus,51212,Bobcat,,Ερυθρός λύγκας,https://inaturalist-open-data.s3.amazonaws.com/photos/469339788/medium.jpeg,https://www.inaturalist.org/observations/261263038,Tom Murray,Terrestrial mammals,LC
-2434793,Phoca vitulina,51178,Harbor Seal,,Φώκια των λιμανιών,https://inaturalist-open-data.s3.amazonaws.com/photos/585448573/medium.jpg,https://www.inaturalist.org/observations/323544397,zimmwisdom,Marine mammals,LC
-5229332,Pachyptila turtur,50812,Fairy Prion,,,https://inaturalist-open-data.s3.amazonaws.com/photos/22674977/medium.jpg,https://www.inaturalist.org/observations/15164859,Oscar Thomas,Birds,LC
-2480487,Circus cyaneus,49913,Hen Harrier,,Βαλτόκιρκος,https://inaturalist-open-data.s3.amazonaws.com/photos/434827233/medium.jpg,https://www.inaturalist.org/observations/243825095,Vladimir Bryukhov,Birds,LC
-5204034,Oncorhynchus kisutch,48496,Coho Salmon,,Σολομός Koho,https://inaturalist-open-data.s3.amazonaws.com/photos/447621235/medium.jpeg,https://www.inaturalist.org/observations/250300222,KDyke,Bony fish,LC
-2417905,Negaprion acutidens,47037,Sicklefin Lemon Shark,,Λεμονοκαρχαρίας του Ινδο-Ειρηνικού,https://inaturalist-open-data.s3.amazonaws.com/photos/44282511/medium.jpeg,https://www.inaturalist.org/observations/28407960,Nigel Marsh,Sharks & Rays,EN
-2393172,Lates calcarifer,42634,Barramundi,,Πέρκα barramundi,,,,Bony fish,LC
-5212956,Anguilla rostrata,41651,American Eel,,Αμερικανικό Χέλι,https://inaturalist-open-data.s3.amazonaws.com/photos/63219231/medium.jpeg,https://www.inaturalist.org/observations/39822847,bigtrain3,Bony fish,EN
-2384741,Lutjanus lutjanus,40950,Bigeye Snapper,,Λουτζιάνος,,,,Bony fish,LC
-5210114,Plectropomus leopardus,40858,Leopard Coralgrouper,,,,,,Bony fish,LC
-2383154,Achoerodus viridis,40709,Eastern Blue Groper,,Ανατολικός μπλε γκρόπερ,,,,Bony fish,NT
-5215675,Heterodontus portusjacksoni,39884,Port Jackson Shark,,Καρχαρίας του Πορτ Τζάκσον,,,,Sharks & Rays,LC
-2374149,Scomber scombrus,39193,Atlantic Mackerel,,Σκουμπρί,https://inaturalist-open-data.s3.amazonaws.com/photos/211801786/medium.jpg,https://www.inaturalist.org/observations/124927131,TCullinane,Bony fish,LC
-2418234,Galeocerdo cuvier,36551,Tiger Shark,,Καρχαρίας τίγρης,https://inaturalist-open-data.s3.amazonaws.com/photos/174032335/medium.jpeg,https://www.inaturalist.org/observations/103910661,Sylvain Le Bris,Sharks & Rays,NT
-5212440,Argyrosomus japonicus,36352,Mulloway,,Πελαγίσιο λυθρίνι,,,,Bony fish,EN
-4287132,Acipenser oxyrinchus,36272,Atlantic Sturgeon,,Οξύρυγχος του Ατλαντικού,https://inaturalist-open-data.s3.amazonaws.com/photos/158152739/medium.jpg,https://www.inaturalist.org/observations/95278061,The Harbors Video Project,Bony fish,VU
-2433467,Phocarctos hookeri,33285,New Zealand Sea Lion,,Θαλάσσιος λέοντας,,,,Marine mammals,EN
-2392280,Acanthopagrus australis,31735,Yellowfin Bream,,,,,,Bony fish,LC
-2481381,Phoebastria immutabilis,28882,Laysan Albatross,,Άλμπατρος του Βόρειου Ειρηνικού,https://inaturalist-open-data.s3.amazonaws.com/photos/625951608/medium.jpg,https://www.inaturalist.org/observations/343606478,Howard Thiele,Birds,NT
-2412740,Alosa pseudoharengus,28083,Alewife,,Φρίσσα,https://inaturalist-open-data.s3.amazonaws.com/photos/107690224/medium.jpg,https://www.inaturalist.org/observations/66757912,sercfisheries,Bony fish,LC
-5209329,Macquaria novemaculeata,27968,Australian Bass,,Αυστραλιανό λαβράκι,,,,Bony fish,LC
-2480967,Sula dactylatra,26686,Masked Booby,,Μασκοφόρα Σούλα,https://inaturalist-open-data.s3.amazonaws.com/photos/251807897/medium.jpeg,https://www.inaturalist.org/observations/146460958,Nick Leggatt,Birds,LC
-2417541,Orectolobus maculatus,25565,Spotted Wobbegong,,,,,,Sharks & Rays,LC
-2390185,Siganus rivulatus,25521,Rivulated Rabbitfish,,Μαγιάτικο της Αυστραλίας,https://inaturalist-open-data.s3.amazonaws.com/photos/430342190/medium.jpg,https://www.inaturalist.org/observations/241461222,Pauline Rico,Bony fish,LC
-2415788,Merlangius merlangus,25137,Whiting,,,,,,Bony fish,LC
-2434791,Phoca largha,24977,Spotted Seal,,Στικτή Φώκια,https://inaturalist-open-data.s3.amazonaws.com/photos/183630223/medium.jpeg,https://www.inaturalist.org/observations/109000754,Валерия Ковалева,Marine mammals,LC
-2418054,Triaenodon obesus,24775,Whitetip Reef Shark,,Λευκοπτέρυγος υφαλοκαρχαρίας,,,,Sharks & Rays,VU
-5204019,Oncorhynchus mykiss,23776,Columbia River Redband Trout,,Ιριδίζουσα πέστροφα,https://inaturalist-open-data.s3.amazonaws.com/photos/226043203/medium.jpg,https://www.inaturalist.org/observations/132760733,jim22lawrence,Bony fish,LC
-2480910,Botaurus stellaris,23402,Eurasian Bittern,,Ήταυρος,https://inaturalist-open-data.s3.amazonaws.com/photos/585540946/medium.jpg,https://www.inaturalist.org/observations/323590888,Vladislav Iopek,Birds,LC
-8351946,Clupea harengus,22103,Atlantic Herring,,Ρέγγα,https://inaturalist-open-data.s3.amazonaws.com/photos/370025857/medium.jpg,https://www.inaturalist.org/observations/209104292,sercfisheries,Bony fish,LC
-2419488,Bathytoshia brevicaudata,21725,Short-tail Stingray,,Σαλάχι τριγόνα,,,,Sharks & Rays,LC
-2418009,Carcharhinus plumbeus,21202,Sandbar Shark,,Σταχτοκαρχαρίας,,,,Sharks & Rays,EN
-2417970,Carcharhinus limbatus,20508,Common Blacktip Shark,,Καρχαρίνος μελανόακρος,https://inaturalist-open-data.s3.amazonaws.com/photos/225162527/medium.jpg,https://www.inaturalist.org/observations/132236117,Simon Pierce,Sharks & Rays,VU
-8231523,Sillago ciliata,20409,Sand Whiting,,,,,,Bony fish,LC
-2433474,Arctocephalus forsteri,20198,Long-nosed Fur Seal,,,,,,Marine mammals,LC
-9743996,Phaethon aethereus,20112,Red-billed Tropicbird,,Φαέθων με κόκκινο ράμφος,https://inaturalist-open-data.s3.amazonaws.com/photos/328451776/medium.jpg,https://www.inaturalist.org/observations/187769613,Gerold Morrison,Birds,LC
-2374885,Lethrinus nebulosus,19859,Spangled Emperor,,,https://inaturalist-open-data.s3.amazonaws.com/photos/287497294/medium.jpg,https://www.inaturalist.org/observations/166044553,Bruce Deagle,Bony fish,LC
-2397850,Xiphias gladius,19763,Broadbill Swordfish,,Ξιφίας,,,,Bony fish,NT
-2383158,Achoerodus gouldii,18566,Western Blue Groper,,Δυτικός μπλε γκρόπερ,,,,Bony fish,VU
-2391175,Pseudocaranx dentex,18176,Silver Trevally,,Κοκκάλι,,,,Bony fish,LC
-5863764,Metacarcinus magister,17881,Dungeness Crab,,Καβούρι Dungeness,https://inaturalist-open-data.s3.amazonaws.com/photos/63867685/medium.jpeg,https://www.inaturalist.org/observations/40206596,Ben Zerante,Invertebrates,
-2434982,Leopardus pardalis,17684,Ocelot,,Οσελότος,,,,Terrestrial mammals,LC
-2409218,Hippoglossus hippoglossus,17306,Atlantic Halibut,,Ιππόγλωσσος Ατλαντικού,https://inaturalist-open-data.s3.amazonaws.com/photos/196509256/medium.jpg,https://www.inaturalist.org/observations/116414403,Vsevolod Rudyi,Bony fish,NT
-5962163,Maccullochella mariensis,16113,Mary River Cod,,,,,,Bony fish,EN
-5229359,Puffinus tenuirostris,15795,Short-tailed Shearwater,,,https://inaturalist-open-data.s3.amazonaws.com/photos/136828700/medium.jpeg,https://www.inaturalist.org/observations/83236445,Miguel A. Casado,Birds,LC
-2418003,Carcharhinus albimarginatus,14901,Silvertip Shark,,Καρχαρίας με λευκά πτερύγια,,,,Sharks & Rays,VU
-2417940,Prionace glauca,14894,Blue Shark,,Γλαυκοκαρχαρίας,https://inaturalist-open-data.s3.amazonaws.com/photos/220488434/medium.jpeg,https://www.inaturalist.org/observations/129721590,Frederico Almada,Sharks & Rays,NT
-2420694,Carcharodon carcharias,14516,Great White Shark,,Λευκός καρχαρίας,https://inaturalist-open-data.s3.amazonaws.com/photos/10571121/medium.jpg,https://www.inaturalist.org/observations/7991617,stephencoutts,Sharks & Rays,VU
-5215567,Glyphis glyphis,14409,Speartooth Shark,,,,,,Sharks & Rays,VU
-1010610,Limulus polyphemus,14401,Atlantic Horseshoe Crab,,Ξιφόσουρα,https://inaturalist-open-data.s3.amazonaws.com/photos/173778952/medium.jpg,https://www.inaturalist.org/observations/103781676,Rigel Nava,Invertebrates,VU
-2381337,Kyphosus vaigiensis,13968,Brassy Drummer,,,,,,Bony fish,LC
-2481383,Phoebastria nigripes,13580,Black-footed Albatross,,Άλμπατρος του Βόρειου Ειρηνικού,https://inaturalist-open-data.s3.amazonaws.com/photos/62843720/medium.jpg,https://www.inaturalist.org/observations/39601433,Robin Gwen Agarwal,Birds,NT
-2433475,Arctocephalus pusillus,12664,Brown Fur Seal,,,,,,Marine mammals,LC
-5201404,Platycephalus fuscus,12518,Dusky Flathead,,,,,,Bony fish,
-2498350,Somateria spectabilis,11666,King Eider,,Βασιλόπαπια,https://inaturalist-open-data.s3.amazonaws.com/photos/475565250/medium.jpeg,https://www.inaturalist.org/observations/264818360,Vasily Kalinichenko,Birds,LC
-2418028,Carcharhinus amboinensis,11338,Pigeye Shark,,Καρχαρίας της Ιάβας,,,,Sharks & Rays,VU
-2289202,Nautilus pompilius,10943,Emperor Nautilus,,Ναυτίλος,,,,Invertebrates,
-2434810,Histriophoca fasciata,10849,Ribbon Seal,,Ταινιοφόρος Φώκια,https://inaturalist-open-data.s3.amazonaws.com/photos/11319079/medium.jpeg,https://www.inaturalist.org/observations/8486729,hillanddale,Marine mammals,LC
-2337607,Silurus glanis,10300,Wels Catfish,,Γουλιανός,https://inaturalist-open-data.s3.amazonaws.com/photos/216296689/medium.jpg,https://www.inaturalist.org/observations/127414729,Manuel Raab,Bony fish,LC
-2385069,Lutjanus argentimaculatus,9994,Mangrove Red Snapper,,,,,,Bony fish,LC
-5215777,Rhinoptera bonasus,9942,Cownose Ray,,,https://inaturalist-open-data.s3.amazonaws.com/photos/345595201/medium.jpeg,https://www.inaturalist.org/observations/196316814,bryndevon404,Sharks & Rays,VU
-2418173,Carcharhinus brachyurus,9904,Bronze Whaler,,Καρχαρίνος ο βραχύουρος,,,,Sharks & Rays,VU
-2418792,Sphyrna mokarran,9702,Great Hammerhead,,Μεγαλοζύγαινα,,,,Sharks & Rays,CR
-2412708,Alosa aestivalis,9551,Blueback Shad,,,https://inaturalist-open-data.s3.amazonaws.com/photos/286735362/medium.jpeg,https://www.inaturalist.org/observations/165634438,Jeff Garner,Bony fish,VU
-2381233,Girella tricuspidata,9509,Luderick,,,,,,Bony fish,
-4286975,Cyprinus carpio,9437,European Carp,,Κυπρίνος,https://inaturalist-open-data.s3.amazonaws.com/photos/2754663/medium.JPG,https://www.inaturalist.org/observations/2461905,lonnyholmes,Bony fish,LC
-9770885,Pagrus auratus,9099,Australasian Snapper,,Φαγκρί Νέας Ζηλανδίας,,,,Bony fish,LC
-2419095,Trygonorrhina fasciata,9053,Banjo Ray,,,,,,Sharks & Rays,LC
-2434814,Mirounga leonina,9033,Southern Elephant Seal,,Θαλάσσιος ελέφαντας,,,,Marine mammals,LC
-2390341,Scarus rivulatus,8950,Surf Parrotfish,,Κουρκούνα άσπρη,,,,Bony fish,LC
-8841716,Eretmochelys imbricata,8108,Hawksbill Sea Turtle,,Κεραμοχελώνα,,,,Reptiles,CR
-8189568,Mugil cephalus,7599,Sea Mullet,,Κέφαλος,,,,Bony fish,LC
-2418041,Carcharhinus fitzroyensis,7587,Creek Whaler,,,,,,Sharks & Rays,LC
-2374857,Lethrinus miniatus,7440,Redthroat Emperor,,,,,,Bony fish,LC
-9241141,Mobula alfredi,7403,Reef Manta Ray,,Σαλάχι μάντα,,,,Sharks & Rays,VU
-2497295,Asio flammeus,7346,Short-eared Owl,,Βαλτόμπουφος,https://inaturalist-open-data.s3.amazonaws.com/photos/344405593/medium.jpg,https://www.inaturalist.org/observations/195724174,pkondrashov,Birds,LC
-2344917,Hemiarius dioctes,7022,Warrior Catfish,,,,,,Bony fish,
-2434816,Erignathus barbatus,6984,Bearded Seal,,Γενειοφόρος φώκια,https://inaturalist-open-data.s3.amazonaws.com/photos/309399899/medium.jpg,https://www.inaturalist.org/observations/177862083,Sebastián Lescano,Marine mammals,NT
-5210118,Plectropomus maculatus,6929,Spotted Coral Grouper,,,,,,Bony fish,LC
-2441266,Neoceratodus forsteri,6258,Australian Lungfish,,,,,,Bony fish,EN
-2420600,Notorynchus cepedianus,6106,Broadnose Sevengill Shark,,,https://inaturalist-open-data.s3.amazonaws.com/photos/15570417/medium.jpg,https://www.inaturalist.org/observations/11036668,rowanwattpringle,Sharks & Rays,VU
-2418771,Paragaleus pectoralis,6097,Atlantic Weasel Shark,,,https://inaturalist-open-data.s3.amazonaws.com/photos/304095379/medium.jpeg,https://www.inaturalist.org/observations/175001093,carolina_dlhs,Sharks & Rays,EN
-2481418,Pelecanoides urinatrix,6093,Common Diving Petrel,,,https://inaturalist-open-data.s3.amazonaws.com/photos/461796328/medium.jpeg,https://www.inaturalist.org/observations/257430741,ou.wildlife,Birds,LC
-2440669,Phocoena phocoena,5933,Harbour Porpoise,,Φώκαινα,,,,Marine mammals,LC
-2440440,Pseudorca crassidens,5774,False Killer Whale,,Ψευδόρκα,https://inaturalist-open-data.s3.amazonaws.com/photos/167153562/medium.jpg,https://www.inaturalist.org/observations/100173317,fernando_elorriaga,Marine mammals,NT
-2391729,Rachycentron canadum,5639,Cobia,,Κόμπια,https://inaturalist-open-data.s3.amazonaws.com/photos/529527003/medium.jpg,https://www.inaturalist.org/observations/294201524,Leonardo Pereira,Bony fish,LC
-5220086,Megaptera novaeangliae,5584,Humpback Whale,,Μεγάπτερη φάλαινα,,,,Marine mammals,LC
-2421365,Lampetra fluviatilis,5505,European River Lamprey,,Ποταμολάμπραινα,https://inaturalist-open-data.s3.amazonaws.com/photos/492846946/medium.jpeg,https://www.inaturalist.org/observations/274114540,Światopelk Smoczyński,Bony fish,NT
-2418005,Carcharhinus obscurus,5494,Dusky Shark,,Σκοτεινός καρχαρίας,https://inaturalist-open-data.s3.amazonaws.com/photos/10584611/medium.jpg,https://www.inaturalist.org/observations/8000290,stephencoutts,Sharks & Rays,EN
-9789983,Dermochelys coriacea,5471,Leatherback Sea Turtle,,Δερματοχελώνα,,,,Reptiles,VU
-5201386,Platycephalus caeruleopunctatus,5163,Bluespotted Flathead,,,,,,Bony fish,
-2442153,Lepidochelys olivacea,5076,Olive Ridley Sea Turtle,,Λεπιδόχελυς του Ειρηνικού,,,,Reptiles,VU
-9729967,Dugong dugon,5040,Dugong,,Ντιγκόνγκ,,,,Marine mammals,VU
-2418942,Rhynchobatus australiae,4963,Whitespotted Guitarfish,,,,,,Sharks & Rays,CR
-5961708,Seriola lalandi,4851,Yellowtail Kingfish,,Μαγιάτικο της Αυστραλίας,,,,Bony fish,LC
-2381302,Kyphosus sydneyanus,4709,Silver Drummer,,,,,,Bony fish,
-2390315,Siganus doliatus,4661,Barred Rabbitfish,,,,,,Bony fish,LC
-2390805,Caranx ignobilis,4549,Giant Trevally,,,,,,Bony fish,LC
-2481912,Ciconia ciconia,4461,European White Stork,,Λευκοπελαργός,https://inaturalist-open-data.s3.amazonaws.com/photos/593174925/medium.jpg,https://www.inaturalist.org/observations/327419069,Tim Taslimi,Birds,LC
-2394604,Morone americana,4396,White Perch,,Λευκή πέρκα,https://inaturalist-open-data.s3.amazonaws.com/photos/209801095/medium.jpg,https://www.inaturalist.org/observations/123818203,Peter Wilson,Bony fish,LC
-2435270,Acinonyx jubatus,4355,Cheetah,,Γατόπαρδος,https://inaturalist-open-data.s3.amazonaws.com/photos/175608470/medium.jpeg,https://www.inaturalist.org/observations/104758896,Justin Ponder,Terrestrial mammals,VU
-2365685,Squalius cephalus,4261,European Chub,,Κέφαλος,https://inaturalist-open-data.s3.amazonaws.com/photos/401038364/medium.jpg,https://www.inaturalist.org/observations/226146898,robertspiering,Bony fish,LC
-2384758,Lutjanus bohar,4127,Two-spot Red Snapper,,,,,,Bony fish,LC
-2388620,Othos dentex,4127,Harlequin Fish,,,,,,Bony fish,LC
-2345449,Neoarius graeffei,3917,Blue Catfish,,,,,,Bony fish,LC
-2351271,Salvelinus fontinalis,3855,Brook Trout,,Σαλβελίνος,https://inaturalist-open-data.s3.amazonaws.com/photos/242646325/medium.jpg,https://www.inaturalist.org/observations/211499360,Bruce Deagle,Bony fish,LC
-2417860,Rhizoprionodon taylori,3836,Australian Sharpnose Shark,,,,,,Sharks & Rays,LC
-9619349,Pastinachus ater,3803,Broad Cowtail Stingray,,,,,,Sharks & Rays,VU
-5229230,Sterna paradisaea,3463,Arctic Tern,,Χιονογλάρονο,https://inaturalist-open-data.s3.amazonaws.com/photos/344300361/medium.jpg,https://www.inaturalist.org/observations/195679642,Blake Ross,Birds,LC
-2225646,Callinectes sapidus,3346,Atlantic Blue Crab,,Γαλαζοκάβουρας,https://inaturalist-open-data.s3.amazonaws.com/photos/226510112/medium.jpg,https://www.inaturalist.org/observations/133016863,chantel_pence,Invertebrates,
-2351209,Coregonus huntsmani,3310,Atlantic Whitefish,,Ατλαντικός λευκόψαρος,https://inaturalist-open-data.s3.amazonaws.com/photos/29564925/medium.jpeg,https://www.inaturalist.org/observations/19243337,Ian Manning,Bony fish,CR
-8123917,Physeter macrocephalus,3166,Sperm Whale,,Φυσητήρας,,,,Marine mammals,VU
-2419304,Myliobatis tenuicaudatus,3110,Southern Eagle Ray,,,,,,Sharks & Rays,LC
-5210141,Plectropomus laevis,2933,Blacksaddle Coralgrouper,,,,,,Bony fish,LC
-2409330,Platichthys flesus,2804,European Flounder,,Φασί,https://inaturalist-open-data.s3.amazonaws.com/photos/84144698/medium.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/84144698/medium.jpg,charlienaysmith,Bony fish,LC
-2434340,Lycalopex culpaeus,2796,Culpeo,,Αλεπού των Άνδεων,,,,Terrestrial mammals,LC
-2418347,Mustelus antarcticus,2689,Gummy Shark,,Γαλέος της Ανταρκτικής,,,,Sharks & Rays,LC
-2418924,Glaucostegus typus,2680,Giant Guitarfish,,,,,,Sharks & Rays,CR
-2442165,Lepidochelys kempii,2626,Kemp's Ridley Sea Turtle,,Θαλασσοχελώνa του Kemp,,,,Reptiles,CR
-5209766,Coris aygula,2599,Clown Coris,,,,,,Bony fish,LC
-5229165,Aegypius monachus,2450,Cinereous Vulture,,Μαυρόγυπας,https://inaturalist-open-data.s3.amazonaws.com/photos/547875364/medium.jpg,https://www.inaturalist.org/observations/303944080,Сергей,Birds,NT
-2381221,Girella elevata,2373,Rock Blackfish,,,,,,Bony fish,
-5212588,Trachystoma petardi,2373,Pinkeye Mullet,,,,,,Bony fish,LC
-5210529,Carangoides fulvoguttatus,2306,Yellow Spotted Trevally,,,,,,Bony fish,LC
-5218774,Otaria byronia,2208,South American Sea Lion,,Θαλάσσιο Λιοντάρι Της Νότιας Αμερικής,,,,Marine mammals,LC
-2418789,Sphyrna lewini,2077,Scalloped Hammerhead,,Κτενοζύγαινα,,,,Sharks & Rays,CR
-2383502,Notolabrus tetricus,1951,Bluethroat Wrasse,,,,,,Bony fish,LC
-5216239,Lamna nasus,1814,Porbeagle,,Λάμνα,https://inaturalist-open-data.s3.amazonaws.com/photos/261649646/medium.jpg,https://www.inaturalist.org/observations/151628207,mumudu,Sharks & Rays,VU
-9349208,Urogymnus dalyensis,1788,Freshwater Whipray,,,,,,Sharks & Rays,LC
-2373941,Thunnus maccoyii,1673,Southern Bluefin Tuna,,Νότιος ερυθρός τόνος,,,,Bony fish,EN
-9076083,Himantura australis,1618,Reticulated Whipray,,,,,,Sharks & Rays,LC
-5215810,Taeniura lymma,1520,Bluespotted Fantail Ray,,,,,,Sharks & Rays,LC
-2418039,Carcharhinus cautus,1502,Nervous Shark,,,,,,Sharks & Rays,LC
-2420766,Carcharias taurus,1336,Sand Tiger Shark,,Καρχαρίας ταύρος,,,,Sharks & Rays,CR
-2481746,Calidris ruficollis,1288,Red-necked Stint,,Κοκκινόλαιμη Σκαλίδρα,https://inaturalist-open-data.s3.amazonaws.com/photos/209826148/medium.jpg,https://www.inaturalist.org/observations/123832758,Cameron Eckert,Birds,NT
-2400328,Protonibea diacanthus,1275,Black-spotted Croaker,,Σηκιός Μαύρος,,,,Bony fish,NT
-2384936,Lutjanus johnii,1268,Golden Snapper,,,,,,Bony fish,LC
-2388150,Epinephelus multinotatus,1265,Rankin Cod,,Ροφός Ινδικού,,,,Bony fish,LC
-2418774,Hemigaleus australiensis,1223,Australian Weasel Shark,,,,,,Sharks & Rays,LC
-2418259,Galeorhinus galeus,1217,School Shark,,Γαλέος,,,,Sharks & Rays,CR
-2417450,Stegostoma fasciatum,1165,Zebra Shark,,Καρχαρίας ζέβρα,,,,Sharks & Rays,NT
-9301034,Hemitrygon fluviorum,1146,Estuary Stingray,,,,,,Sharks & Rays,VU
-9328654,Pateobatis fai,1090,Pink Whipray,,,,,,Sharks & Rays,VU
-2359706,Rutilus rutilus,1037,Common Roach,,Τσιρόνι,https://inaturalist-open-data.s3.amazonaws.com/photos/523855041/medium.jpg,https://www.inaturalist.org/observations/291170776,michal_michlewicz,Bony fish,LC
-9400747,Pateobatis jenkinsii,998,Jenkins' Whipray,,,,,,Sharks & Rays,EN
-2393382,Eleutheronema tetradactylum,993,Fourfinger Threadfin,,,,,,Bony fish,
-2481741,Calidris ferruginea,962,Curlew Sandpiper,,Δρεπανοσκαλίδρα,,,,Birds,VU
-9716608,Hydrophis hardwickii,845,Hardwicke’s Spine-bellied Sea Snake,,,,,,Reptiles,
-5216276,Pristis pristis,838,Common Sawfish,,Πρίστης μικρόδοντος,,,,Sharks & Rays,CR
-2391331,Gnathanodon speciosus,820,Golden Trevally,,Χρυσό τρεβάλι,,,,Bony fish,LC
-2374255,Scomberomorus commerson,809,Narrow-banded Spanish Mackerel,,Ταινιοπαλαμίδα,,,,Bony fish,NT
-2389100,Variola louti,795,Yellow-edged Lyretail,,,,,,Bony fish,LC
-2417522,Rhincodon typus,784,Whale Shark,,Φαλαινοκαρχαρίας,,,,Sharks & Rays,EN
-2374866,Lethrinus atkinsoni,757,Yellowtail Emperor,,,,,,Bony fish,LC
-9298603,Maculabatis astra,633,Blackspotted Whipray,,,,,,Sharks & Rays,NT
-2417964,Carcharhinus galapagensis,580,Galápagos Shark,,Καρχαρίας των Γκαλαπάγκος,,,,Sharks & Rays,LC
-2434584,Cerdocyon thous,559,Crab-eating Fox,,Καβουροφάγα αλεπού,,,,Terrestrial mammals,LC
-2225562,Scylla serrata,544,Mud Crab,,,,,,Invertebrates,
-2391092,Lichia amia,496,Leerfish,,Λίτζα,https://inaturalist-open-data.s3.amazonaws.com/photos/190268220/medium.jpg,https://www.inaturalist.org/observations/112637919,Roberto Pillon,Bony fish,LC
-5711980,Oncorhynchus clarkii,493,Coastal Cutthroat Trout,,Αμερικανική πρασινόρραχη πέστροφα,https://inaturalist-open-data.s3.amazonaws.com/photos/5295841/medium.jpeg,https://www.inaturalist.org/observations/4408188,Justin Garwood,Bony fish,LC
-5211134,Chlorurus sordidus,492,,,,,,,,LC
-4284020,Salvelinus malma,460,Dolly Varden,,Σαλβελίνος του Ειρηνικού,https://inaturalist-open-data.s3.amazonaws.com/photos/106187399/medium.jpg,https://www.inaturalist.org/observations/65925069,Ashley M Bradford,Bony fish,LC
-5201387,Platycephalus bassensis,448,,,,,,,,
-2418184,Carcharhinus sorrah,435,,,,,,,,NT
-2481458,Pterodroma cervicalis,430,White-necked Petrel,,,,,,Birds,VU
-2418939,Rhynchobatus laevis,430,,,,,,,,CR
-2381939,Coryphaena hippurus,393,,,Κυνηγός,,,,,LC
-9245001,Hypanus sabinus,388,Atlantic Stingray,,,https://inaturalist-open-data.s3.amazonaws.com/photos/111421489/medium.jpg,https://www.inaturalist.org/observations/68761309,Dylan Jacques-Fero,Sharks & Rays,LC
-2440735,Balaenoptera musculus,386,Blue Whale,,Γαλάζια φάλαινα,,,,Marine mammals,EN
-5960332,Hydrophis elegans,358,,,,,,,,LC
-5215568,Loxodon macrorhinus,322,,,,,,,,NT
-5789284,Onychoprion fuscatus,310,Sooty Tern,,Δρεπανίδα,,,,Birds,LC
-2418633,Cephaloscyllium laticeps,299,,,,,,,,LC
-2418312,Mustelus canis,284,Dusky Smooth-Hound,,,https://inaturalist-open-data.s3.amazonaws.com/photos/77336365/medium.jpg,https://www.inaturalist.org/observations/48730813,Phil Colarusso,Sharks & Rays,NT
-2440605,Globicephala macrorhynchus,277,Short-finned Pilot Whale,,Τροπικό μαυροδέλφινο,https://inaturalist-open-data.s3.amazonaws.com/photos/159806977/medium.jpeg,https://www.inaturalist.org/observations/96210120,dnoby,Marine mammals,LC
-5201392,Platycephalus richardsoni,276,,,,,,,,
-2419580,Urogymnus asperrimus,246,,,,,,,,EN
-2417983,Carcharhinus brevipinna,224,Spinner Shark,,Καρχαρίνος κοντόφτερος,https://inaturalist-open-data.s3.amazonaws.com/photos/141413830/medium.jpg,https://www.inaturalist.org/observations/85898648,Niall Perrins,Sharks & Rays,VU
-2385226,Aprion virescens,220,,,Πράσινη συναγρίδα Ινδο-Ειρηνικού,,,,,LC
-2417418,Callorhinchus milii,204,,,,,,,,LC
-2384899,Lutjanus sebae,167,,,Αυτοκρατορικός κόκκινος λουτιάνος,,,,,LC
-2392142,Nemadactylus douglasii,165,,,Νημαδάκτυλος,,,,,
-9548142,Mobula birostris,162,,,,,,,,EN
-2419415,Trygonoptera testacea,158,,,,,,,,NT
-2388137,Epinephelus tauvina,154,,,,,,,,
-5215493,Brachaelurus waddi,145,,,,,,,,LC
-2340972,Ameiurus catus,129,,,,,,,,LC
-8006460,Anarhichas lupus,120,Atlantic Wolffish,,Λυκόψαρο,https://inaturalist-open-data.s3.amazonaws.com/photos/107915036/medium.jpg,https://www.inaturalist.org/observations/66879325,Alex Shure,Bony fish,
-2440709,Balaenoptera borealis,112,,,Βορειοφάλαινα,,,,,EN
-2417557,Orectolobus halei,112,,,,,,,,LC
-5209124,Naso unicornis,108,,,,,,,,LC
-2392273,Acanthopagrus butcheri,106,,,Μαύρη τσιπούρα Αυστραλίας,,,,,LC
-2420446,Amblyraja radiata,104,Thorny Skate,,Ακτινόβατος,https://inaturalist-open-data.s3.amazonaws.com/photos/25578838/medium.jpg,https://www.inaturalist.org/observations/16927157,Tatiana Antokhina,Sharks & Rays,VU
-7466803,Carcharhinus coatesi,100,,,,,,,,LC
-2408813,Pseudorhombus arsius,94,,,,,,,,LC
-5208090,Pomatomus saltatrix,92,Bluefish,,Γοφάρι,https://inaturalist-open-data.s3.amazonaws.com/photos/14722080/medium.jpg,https://www.inaturalist.org/observations/10566359,Peter,Bony fish,VU
-2351244,Salvelinus confluentus,89,Bull Trout,,,https://inaturalist-open-data.s3.amazonaws.com/photos/231323307/medium.jpeg,https://www.inaturalist.org/observations/135611166,Jon David Nelson,Bony fish,VU
-2418825,Eusphyra blochii,85,,,Ζύγαινα,,,,,CR
-2388492,Epinephelus rivulatus,74,,,,,,,,LC
-5201397,Platycephalus laevigatus,72,,,,,,,,
-8178301,Platycephalus grandispinis,71,,,,,,,,
-5712356,Anguilla australis,70,,,Κοντόπτερο αυστραλιανό χέλι,,,,,NT
-2433480,Arctocephalus australis,52,South American Fur Seal,,Γουνοφόρα Φώκια Της Νέας Ζηλανδίας,,,,Marine mammals,LC
-2406841,Meuschenia freycineti,52,,,,,,,,LC
-2418252,Furgaleus macki,50,,,,,,,,LC
-2415853,Gadus macrocephalus,50,Pacific Cod,,Μπακαλιάρος,https://inaturalist-open-data.s3.amazonaws.com/photos/340745230/medium.jpg,https://www.inaturalist.org/observations/193926226,dpcmiller,Bony fish,
-2391929,Sillago sihama,50,,,Σίλαγγος,,,,,LC
-2420848,Anoxypristis cuspidata,42,,,Πριονόψαρο,,,,,CR
-2415893,Microgadus tomcod,42,Atlantic Tomcod,,,https://inaturalist-open-data.s3.amazonaws.com/photos/350861616/medium.jpg,https://www.inaturalist.org/observations/199002989,Flore du quartier,Bony fish,LC
-8236498,Petromyzon marinus,22,Sea Lamprey,,Πετρόμυζον,https://inaturalist-open-data.s3.amazonaws.com/photos/285915486/medium.jpeg,https://www.inaturalist.org/observations/165189560,Jill DeVito,Bony fish,LC
-2382906,Pomadasys commersonnii,20,Small-spotted Grunter,,,https://inaturalist-open-data.s3.amazonaws.com/photos/173395767/medium.jpeg,https://www.inaturalist.org/observations/103583156,Craig Peter,Bony fish,LC
-2407011,Nelusetta ayraud,19,,,,,,,,LC
-5202520,Ictalurus punctatus,18,,,,,,,,LC
-2449923,Hydrophis major,16,,,,,,,,LC
-5208684,Kuhlia rupestris,16,,,,,,,,LC
-5216248,Isurus oxyrinchus,14,,,Ρυγχοκαρχαρίας,,,,,EN
-2409370,Parophrys vetulus,14,English Sole,,,https://inaturalist-open-data.s3.amazonaws.com/photos/434065415/medium.jpeg,https://www.inaturalist.org/observations/243428500,André Giraldi,Bony fish,LC
-2393577,Scarus ghobban,6,,,Ξενικός σκάρος,,,,,LC
-5216288,Pristis zijsron,5,,,Πριονόψαρο,,,,,CR
-4353G,2394563,Micropterus salmoides,5,,,,,,,,LC
-4Q9YG,5205694,Ptychocheilus grandis,5,,,,,,,,LC
-65V4P,2450128,Aipysurus duboisii,4,,,,,,,,LC
-3KRYJ,5215649,Hemipristis elongata,4,,,,,,,,EN
-3LY3S,5215903,Himantura leoparda,4,,,,,,,,EN
-4JP6F,5201384,Platycephalus speculator,3,,,,,,,,
-56P7Q,2373980,Thunnus thynnus,3,Atlantic Bluefin Tuna,,Ερυθρός τόνος,https://inaturalist-open-data.s3.amazonaws.com/photos/161933338/medium.jpeg,https://www.inaturalist.org/observations/97375616,Sylvain Le Bris,Bony fish,LC
-5TV4N,2450131,Aipysurus laevis,2,,,,,,,,LC
-R3MH,2417988,Carcharhinus amblyrhynchoides,2,,,,,,,,VU
-4MJWG,2417820,Pristiophorus nudipinnis,2,,,,,,,,LC
-4VTXG,2374268,Scomberomorus maculatus,2,Atlantic Spanish Mackerel,,Σκουμπρί Ισπανίας,https://inaturalist-open-data.s3.amazonaws.com/photos/414572804/medium.jpg,https://www.inaturalist.org/observations/233287345,Frank Krasovec,Bony fish,LC
-8YVK,7403268,Acanthopagrus morrisonae,1,,,,,,,,LC
-R2QX,2390836,Caranx lugubris,1,,,,,,,,LC
-35WKD,2439920,Didelphis marsupialis,1,Southern Opossum,,Κοινό Πόσουμ,,,,Terrestrial mammals,LC
-3M35P,2393846,Hipposcarus longiceps,1,,,,,,,,LC
-4SRJH,2418938,Rhynchobatus palpebratus,1,,,,,,,,NT
-GMX9,5202927,Ariopsis felis,1,,,,,,,,LC
-6KFCS,2417495,Ginglymostoma cirratum,0,Nurse Shark,,Καρχαρίας τροφός,https://inaturalist-open-data.s3.amazonaws.com/photos/439764980/medium.jpeg,https://www.inaturalist.org/observations/246346292,CONANP_Reserva de la Biosfera Banco Chinchorro,Sharks & Rays,VU
-464NF,2417919,Negaprion brevirostris,0,Lemon Shark,,Κίτρινος καρχαρίας,https://inaturalist-open-data.s3.amazonaws.com/photos/628189776/medium.jpg,https://www.inaturalist.org/observations/344753345,Steve Cappell,Sharks & Rays,VU
+3SBQ9,Larus fuscus,4009134,Lesser Black-backed Gull,Gaviota sombría,Μελανόγλαρος,https://inaturalist-open-data.s3.amazonaws.com/photos/111114484/medium.jpeg,https://www.inaturalist.org/observations/68596025,Andrew Bazdyrev,Birds,LC
+3SBPN,Larus argentatus,2673053,European Herring Gull,Gaviota argéntea,Ασημόγλαρος,https://inaturalist-open-data.s3.amazonaws.com/photos/636514055/medium.jpg,https://www.inaturalist.org/observations/348963009,Jason Thompson,Birds,LC
+6K72F,Gadus morhua,1777816,Atlantic Cod,Bacalao común,Μπακαλιάρος του Ατλαντικού,https://inaturalist-open-data.s3.amazonaws.com/photos/541436632/medium.jpg,https://www.inaturalist.org/observations/300496831,Kim Nesbitt,Bony fish,VU
+79CZL,Salmo trutta,1072476,Brown Trout,Trucha común,Πέστροφα,https://inaturalist-open-data.s3.amazonaws.com/photos/153521117/medium.jpg,https://www.inaturalist.org/observations/92696622,Olly Morgan,Bony fish,LC
+3J8XQ,Haematopus ostralegus,1038140,Eurasian Oystercatcher,Ostrero euroasiático,Στρειδοφάγος,https://inaturalist-open-data.s3.amazonaws.com/photos/1039273/medium.jpg,https://www.inaturalist.org/observations/823427,Brian Gratwicke,Birds,NT
+3HXNC,Gyps fulvus,973808,Eurasian Griffon,Buitre leonado​,Όρνιο,https://inaturalist-open-data.s3.amazonaws.com/photos/449977975/medium.jpg,https://www.inaturalist.org/observations/251479613,Quentin Gaillard,Birds,LC
+456LW,Myoxocephalus scorpius,775533,Shorthorn Sculpin,,Σκορπιός της θάλασσας,https://inaturalist-open-data.s3.amazonaws.com/photos/398763231/medium.jpeg,https://www.inaturalist.org/observations/224955938,Kian Hayles-Cotton,Bony fish,LC
+5Y5GB,Chionoecetes opilio,691379,Snow Crab,Cangrejo azul de las nieves,Καβούρι του χιονιού,https://inaturalist-open-data.s3.amazonaws.com/photos/31353551/medium.jpg,https://www.inaturalist.org/observations/20307202,Georgy Vinogradov,Invertebrates,
+6H8KC,Eudyptula minor,493654,Little Penguin,Pingüino azul,Μικρός Μπλε Πιγκουίνος,https://inaturalist-open-data.s3.amazonaws.com/photos/243990665/medium.jpeg,https://www.inaturalist.org/observations/142329640,johnnoh,Birds,LC
+3Z8JC,Melanogrammus aeglefinus,378466,Haddock,,,https://inaturalist-open-data.s3.amazonaws.com/photos/318932194/medium.jpg,https://www.inaturalist.org/observations/182871020,Vsevolod Rudyi,Bony fish,VU
+3HFDF,Grus grus,358712,Common Crane,Grulla común,Γερανός,https://inaturalist-open-data.s3.amazonaws.com/photos/227565252/medium.jpg,https://www.inaturalist.org/observations/133585813,Vsevolod Rudyi,Birds,LC
+7VDPQ,Homarus americanus,335827,American Lobster,Bogavante americano,Αμερικανικός αστακός,https://inaturalist-open-data.s3.amazonaws.com/photos/31318271/medium.jpg,https://www.inaturalist.org/observations/20286880,Bob Semple,Invertebrates,LC
+5Z6WQ,Circus aeruginosus,335433,Western Marsh Harrier,Aguilucho lagunero occidental,Καλαμόκιρκος,https://inaturalist-open-data.s3.amazonaws.com/photos/121481252/medium.jpg,https://www.inaturalist.org/observations/74337384,Artem Kuznetsov,Birds,LC
+DZZN,Anguilla anguilla,332194,European Eel,Anguila europea,Χέλι,https://inaturalist-open-data.s3.amazonaws.com/photos/316049128/medium.jpeg,https://www.inaturalist.org/observations/181365760,Nicola Crockford,Bony fish,CR
+456LN,Myoxocephalus octodecemspinosus,325330,Longhorn Sculpin,,,https://inaturalist-open-data.s3.amazonaws.com/photos/374555081/medium.jpeg,https://www.inaturalist.org/observations/211920189,Lara Gibson,Bony fish,
+79G2M,Salvelinus alpinus,320271,Arctic Char,Salvelino,Αρκτοσαλβελίνος,https://inaturalist-open-data.s3.amazonaws.com/photos/256781750/medium.jpeg,https://www.inaturalist.org/observations/149052430,Игорь Загребин,Bony fish,LC
+6XCXT,Salmo salar,302855,Atlantic Salmon,Salmón común,Σολομός του Ατλαντικού,https://inaturalist-open-data.s3.amazonaws.com/photos/555838239/medium.jpg,https://www.inaturalist.org/observations/308109504,v_moss,Bony fish,NT
+53FBK,Sula variegata,299891,Peruvian Booby,Piquero peruano,Περουβιανή σούλα,https://inaturalist-open-data.s3.amazonaws.com/photos/210308716/medium.jpg,https://www.inaturalist.org/observations/124098338,Frédéric LEVIEZ,Birds,LC
+9C5B,Acipenser fulvescens,291762,Lake Sturgeon,Esturión de lago,Στουριόνι,https://inaturalist-open-data.s3.amazonaws.com/photos/522174507/medium.jpg,https://www.inaturalist.org/observations/290276856,Below Blue Water Diver,Bony fish,EN
+R3PH,Carcharhinus melanopterus,222104,Blacktip Reef Shark,Tiburón punta negra de arrecife,Καρχαρίνος μελανόφτερος,https://inaturalist-open-data.s3.amazonaws.com/photos/436348367/medium.jpeg,https://www.inaturalist.org/observations/244609491,Leona Kustra,Sharks & Rays,VU
+3JBV8,Halichoerus grypus,219519,Grey Seal,Foca gris,Γκρίζα φώκια,https://inaturalist-open-data.s3.amazonaws.com/photos/360702762/medium.jpg,https://www.inaturalist.org/observations/204097481,Charles Tuberdyke,Marine mammals,LC
+R3ML,Carcharhinus amblyrhynchos,213681,Grey Reef Shark,Tiburón gris,Τεφρός καρχαρίας,https://inaturalist-open-data.s3.amazonaws.com/photos/333199230/medium.jpg,https://www.inaturalist.org/observations/190112937,Etienne Guitton,Sharks & Rays,EN
+9C7V,Acipenser transmontanus,207013,White Sturgeon,Esturión blanco,Οξύρρυγχος ο υπερορεινός,https://inaturalist-open-data.s3.amazonaws.com/photos/627931068/medium.jpg,https://www.inaturalist.org/observations/344614581,mlyons7,Bony fish,VU
+6N5PG,Ichthyaetus melanocephalus,205983,Mediterranean Gull,Gaviota cabecinegra,Μελανοκέφαλος γλάρος,https://inaturalist-open-data.s3.amazonaws.com/photos/76875465/medium.png,https://www.inaturalist.org/observations/48448425,Paolo Zucca,Birds,LC
+49JFR,Oncorhynchus tshawytscha,157211,Chinook Salmon,Salmón real,Σολομός Σινούκ,https://inaturalist-open-data.s3.amazonaws.com/photos/330188705/medium.jpeg,https://www.inaturalist.org/observations/188623212,sfreeman7,Bony fish,LC
+53FBG,Sula leucogaster,149311,Brown Booby,Piquero pardo,Καστανόσουλα,https://inaturalist-open-data.s3.amazonaws.com/photos/325883613/medium.jpg,https://www.inaturalist.org/observations/186472268,Ryan Douglas,Birds,LC
+TVGD,Chelonia mydas,145664,Green Sea Turtle,Tortuga verde,Πράσινη χελώνα,https://inaturalist-open-data.s3.amazonaws.com/photos/222581734/medium.jpg,https://www.inaturalist.org/observations/130847742,bradenrice13,Reptiles,LC
+CTW5G,Clanga clanga,141656,Greater Spotted Eagle,Águila moteada,Στικταετός,https://inaturalist-open-data.s3.amazonaws.com/photos/460444126/medium.jpg,https://www.inaturalist.org/observations/256765220,cog2022,Birds,VU
+6S3CN,Morone saxatilis,140912,Striped Bass,Lubina rayada atlántica,Ταινιωτό λαβράκι,https://inaturalist-open-data.s3.amazonaws.com/photos/170972334/medium.jpg,https://www.inaturalist.org/observations/102298548,Christian Back,Bony fish,LC
+VG87,Circus pygargus,126510,Montagu's Harrier,Aguilucho cenizo,Λιβαδόκιρκος,https://inaturalist-open-data.s3.amazonaws.com/photos/658135904/medium.jpg,https://www.inaturalist.org/observations/360668298,Roman Gunchin,Birds,LC
+5YTSK,Ciconia nigra,108179,Black Stork,Cigüeña negra,Μαυροπελαργός,https://inaturalist-open-data.s3.amazonaws.com/photos/627006478/medium.jpg,https://www.inaturalist.org/observations/344140448,Darren Obbard,Birds,LC
+3PB7V,Ictalurus furcatus,106865,Blue Catfish,Bagre azul,Μπλε γατόψαρο,https://inaturalist-open-data.s3.amazonaws.com/photos/417341337/medium.jpeg,https://www.inaturalist.org/observations/234718340,gwen2012,Bony fish,LC
+3JBJV,Haliaeetus albicilla,98231,White-tailed Eagle,Pigargo europeo​,Θαλασσαετός,https://inaturalist-open-data.s3.amazonaws.com/photos/512049225/medium.jpg,https://www.inaturalist.org/observations/284898437,Wolfgang Bettighofer,Birds,LC
+4JMRD,Platalea leucorodia,94975,Eurasian Spoonbill,Espátula común,Χουλιαρομύτα,https://inaturalist-open-data.s3.amazonaws.com/photos/510417211/medium.jpg,https://www.inaturalist.org/observations/284036721,Meike Pa,Birds,LC
+NYV7,Buteo buteo,93602,Common Buzzard,,Γερακίνα,https://inaturalist-open-data.s3.amazonaws.com/photos/334076359/medium.jpg,https://www.inaturalist.org/observations/190551903,Davide Diana,Birds,LC
+KV3M5,Carcharhinus leucas,93293,Bull Shark,Tiburón toro,Ταυροκαρχαρίας,https://inaturalist-open-data.s3.amazonaws.com/photos/323478792/medium.jpg,https://www.inaturalist.org/observations/185236225,Pablo A. Arias Cid,Sharks & Rays,VU
+69BHK,Caretta caretta,89790,Loggerhead Sea Turtle,Tortuga boba,Χελώνα Καρέττα,https://inaturalist-open-data.s3.amazonaws.com/photos/228915238/medium.jpg,https://www.inaturalist.org/observations/134311274,alk Viczian Solarboot-Projekte gGmbH,Reptiles,VU
+CTW5J,Clanga pomarina,79449,Lesser Spotted Eagle,Águila pomerana,Σπιζαετός,https://inaturalist-open-data.s3.amazonaws.com/photos/300371533/medium.jpeg,https://www.inaturalist.org/observations/172988389,zametnya,Birds,LC
+46Q8P,Neophoca cinerea,76865,Australian Sea Lion,León marino australiano,Θαλάσσιο Λιοντάρι Της Αυστραλίας,https://inaturalist-open-data.s3.amazonaws.com/photos/31212965/medium.png,https://www.inaturalist.org/observations/20220397,René Campbell,Marine mammals,EN
+6JM8B,Fregata magnificens,74050,Magnificent Frigatebird,Fragata común,Μεγαλόπρεπη φρεγάτα,https://inaturalist-open-data.s3.amazonaws.com/photos/60156244/medium.jpeg,https://www.inaturalist.org/observations/37902108,Kary Rules,Birds,LC
+49JFH,Oncorhynchus nerka,68817,Sockeye Salmon,Salmón rojo,Κόκκινος σολομός,https://inaturalist-open-data.s3.amazonaws.com/photos/580724257/medium.jpg,https://www.inaturalist.org/observations/321133215,Spencer Hurt,Bony fish,LC
+4CBTY,Pandion haliaetus,64146,Osprey,Águila pescadora,Ψαραετός,https://inaturalist-open-data.s3.amazonaws.com/photos/185494513/medium.jpeg,https://www.inaturalist.org/observations/110002552,Leonardo Hernández Escudero,Birds,LC
+483SZ,Numenius arquata,62960,Eurasian Curlew,Zarapito real,Τουρλίδα,https://inaturalist-open-data.s3.amazonaws.com/photos/149829117/medium.jpg,https://www.inaturalist.org/observations/90641853,alexey_nesmelov,Birds,NT
+3SBPP,Larus armenicus,60504,Armenian Gull,,,https://inaturalist-open-data.s3.amazonaws.com/photos/727992995/medium.jpg,https://www.inaturalist.org/observations/396952797,Donsky,Birds,LC
+ZKNP,Crocodylus porosus,59564,Saltwater Crocodile,Cocodrilo marino,Θαλασσινός κροκόδειλος,https://inaturalist-open-data.s3.amazonaws.com/photos/116226919/medium.jpeg,https://www.inaturalist.org/observations/71391005,Jafet Potenzo Lopes,Reptiles,LC
+6ZDWC,Squalus acanthias,54156,Spiny Dogfish,Mielga,Ακανθίας,https://inaturalist-open-data.s3.amazonaws.com/photos/227069143/medium.jpeg,https://www.inaturalist.org/observations/133317082,whale_nerd,Sharks & Rays,VU
+9C6H,Acipenser medirostris,53913,Green Sturgeon,,,,,,Bony fish,EN
+4256C,Mesoplodon densirostris,51316,Dense-beaked Whale,,Πυκνόρυγχος μεσοπλόδοντας,https://inaturalist-open-data.s3.amazonaws.com/photos/189872487/medium.jpg,https://www.inaturalist.org/observations/112415666,Karolle Wall,Marine mammals,LC
+3WSJW,Lynx rufus,51212,Bobcat,,Ερυθρός λύγκας,https://inaturalist-open-data.s3.amazonaws.com/photos/469339788/medium.jpeg,https://www.inaturalist.org/observations/261263038,Tom Murray,Terrestrial mammals,LC
+4GK65,Phoca vitulina,51178,Harbor Seal,,Φώκια των λιμανιών,https://inaturalist-open-data.s3.amazonaws.com/photos/585448573/medium.jpg,https://www.inaturalist.org/observations/323544397,zimmwisdom,Marine mammals,LC
+75HKY,Pachyptila turtur,50812,Fairy Prion,,,https://inaturalist-open-data.s3.amazonaws.com/photos/22674977/medium.jpg,https://www.inaturalist.org/observations/15164859,Oscar Thomas,Birds,LC
+VG7Z,Circus cyaneus,49913,Hen Harrier,,Βαλτόκιρκος,https://inaturalist-open-data.s3.amazonaws.com/photos/434827233/medium.jpg,https://www.inaturalist.org/observations/243825095,Vladimir Bryukhov,Birds,LC
+49JF8,Oncorhynchus kisutch,48496,Coho Salmon,,Σολομός Koho,https://inaturalist-open-data.s3.amazonaws.com/photos/447621235/medium.jpeg,https://www.inaturalist.org/observations/250300222,KDyke,Bony fish,LC
+73VK3,Negaprion acutidens,47037,Sicklefin Lemon Shark,,Λεμονοκαρχαρίας του Ινδο-Ειρηνικού,https://inaturalist-open-data.s3.amazonaws.com/photos/44282511/medium.jpeg,https://www.inaturalist.org/observations/28407960,Nigel Marsh,Sharks & Rays,EN
+3SJ33,Lates calcarifer,42634,Barramundi,,Πέρκα barramundi,,,,Bony fish,LC
+66R74,Anguilla rostrata,41651,American Eel,,Αμερικανικό Χέλι,https://inaturalist-open-data.s3.amazonaws.com/photos/63219231/medium.jpeg,https://www.inaturalist.org/observations/39822847,bigtrain3,Bony fish,EN
+6QQ2R,Lutjanus lutjanus,40950,Bigeye Snapper,,Λουτζιάνος,,,,Bony fish,LC
+77QLB,Plectropomus leopardus,40858,Leopard Coralgrouper,,,,,,Bony fish,LC
+64H8L,Achoerodus viridis,40709,Eastern Blue Groper,,Ανατολικός μπλε γκρόπερ,,,,Bony fish,NT
+6M4RL,Heterodontus portusjacksoni,39884,Port Jackson Shark,,Καρχαρίας του Πορτ Τζάκσον,,,,Sharks & Rays,LC
+79XKF,Scomber scombrus,39193,Atlantic Mackerel,,Σκουμπρί,https://inaturalist-open-data.s3.amazonaws.com/photos/211801786/medium.jpg,https://www.inaturalist.org/observations/124927131,TCullinane,Bony fish,LC
+3F3KT,Galeocerdo cuvier,36551,Tiger Shark,,Καρχαρίας τίγρης,https://inaturalist-open-data.s3.amazonaws.com/photos/174032335/medium.jpeg,https://www.inaturalist.org/observations/103910661,Sylvain Le Bris,Sharks & Rays,NT
+GKJ5,Argyrosomus japonicus,36352,Mulloway,,Πελαγίσιο λυθρίνι,,,,Bony fish,EN
+9C6W,Acipenser oxyrinchus,36272,Atlantic Sturgeon,,Οξύρυγχος του Ατλαντικού,https://inaturalist-open-data.s3.amazonaws.com/photos/158152739/medium.jpg,https://www.inaturalist.org/observations/95278061,The Harbors Video Project,Bony fish,VU
+4GK6L,Phocarctos hookeri,33285,New Zealand Sea Lion,,Θαλάσσιος λέοντας,,,,Marine mammals,EN
+64GH7,Acanthopagrus australis,31735,Yellowfin Bream,,,,,,Bony fish,LC
+4GK9K,Phoebastria immutabilis,28882,Laysan Albatross,,Άλμπατρος του Βόρειου Ειρηνικού,https://inaturalist-open-data.s3.amazonaws.com/photos/625951608/medium.jpg,https://www.inaturalist.org/observations/343606478,Howard Thiele,Birds,NT
+C5MR,Alosa pseudoharengus,28083,Alewife,,Φρίσσα,https://inaturalist-open-data.s3.amazonaws.com/photos/107690224/medium.jpg,https://www.inaturalist.org/observations/66757912,sercfisheries,Bony fish,LC
+D5BLC,Percalates novemaculeatus,27968,Australian Bass,,Αυστραλιανό λαβράκι,,,,Bony fish,LC
+7B4FR,Sula dactylatra,26686,Masked Booby,,Μασκοφόρα Σούλα,https://inaturalist-open-data.s3.amazonaws.com/photos/251807897/medium.jpeg,https://www.inaturalist.org/observations/146460958,Nick Leggatt,Birds,LC
+6T4N3,Orectolobus maculatus,25565,Spotted Wobbegong,,,,,,Sharks & Rays,LC
+6YN5N,Siganus rivulatus,25521,Rivulated Rabbitfish,,Μαγιάτικο της Αυστραλίας,https://inaturalist-open-data.s3.amazonaws.com/photos/430342190/medium.jpg,https://www.inaturalist.org/observations/241461222,Pauline Rico,Bony fish,LC
+3ZV5N,Merlangius merlangus,25137,Whiting,,,,,,Bony fish,LC
+6VBY4,Phoca largha,24977,Spotted Seal,,Στικτή Φώκια,https://inaturalist-open-data.s3.amazonaws.com/photos/183630223/medium.jpeg,https://www.inaturalist.org/observations/109000754,Валерия Ковалева,Marine mammals,LC
+5855Q,Triaenodon obesus,24775,Whitetip Reef Shark,,Λευκοπτέρυγος υφαλοκαρχαρίας,,,,Sharks & Rays,VU
+49JFF,Oncorhynchus mykiss,23776,Columbia River Redband Trout,,Ιριδίζουσα πέστροφα,https://inaturalist-open-data.s3.amazonaws.com/photos/226043203/medium.jpg,https://www.inaturalist.org/observations/132760733,jim22lawrence,Bony fish,LC
+MMYM,Botaurus stellaris,23402,Eurasian Bittern,,Ήταυρος,https://inaturalist-open-data.s3.amazonaws.com/photos/585540946/medium.jpg,https://www.inaturalist.org/observations/323590888,Vladislav Iopek,Birds,LC
+WCQZ,Clupea harengus,22103,Atlantic Herring,,Ρέγγα,https://inaturalist-open-data.s3.amazonaws.com/photos/370025857/medium.jpg,https://www.inaturalist.org/observations/209104292,sercfisheries,Bony fish,LC
+KYKZ,Bathytoshia brevicaudata,21725,Short-tail Stingray,,Σαλάχι τριγόνα,,,,Sharks & Rays,LC
+R3Q8,Carcharhinus plumbeus,21202,Sandbar Shark,,Σταχτοκαρχαρίας,,,,Sharks & Rays,EN
+KV3M6,Carcharhinus limbatus,20508,Common Blacktip Shark,,Καρχαρίνος μελανόακρος,https://inaturalist-open-data.s3.amazonaws.com/photos/225162527/medium.jpg,https://www.inaturalist.org/observations/132236117,Simon Pierce,Sharks & Rays,VU
+6Z2HQ,Sillago ciliata,20409,Sand Whiting,,,,,,Bony fish,LC
+5VRR3,Arctocephalus forsteri,20198,Long-nosed Fur Seal,,,,,,Marine mammals,LC
+4FPZQ,Phaethon aethereus,20112,Red-billed Tropicbird,,Φαέθων με κόκκινο ράμφος,https://inaturalist-open-data.s3.amazonaws.com/photos/328451776/medium.jpg,https://www.inaturalist.org/observations/187769613,Gerold Morrison,Birds,LC
+6PR26,Lethrinus nebulosus,19859,Spangled Emperor,,,https://inaturalist-open-data.s3.amazonaws.com/photos/287497294/medium.jpg,https://www.inaturalist.org/observations/166044553,Bruce Deagle,Bony fish,LC
+7G9C4,Xiphias gladius,19763,Broadbill Swordfish,,Ξιφίας,,,,Bony fish,NT
+64GWL,Achoerodus gouldii,18566,Western Blue Groper,,Δυτικός μπλε γκρόπερ,,,,Bony fish,VU
+D5999,Pseudocaranx georgianus,18176,Silver Trevally,,Κοκκάλι,,,,Bony fish,LC
+428X3,Metacarcinus magister,17881,Dungeness Crab,,Καβούρι Dungeness,https://inaturalist-open-data.s3.amazonaws.com/photos/63867685/medium.jpeg,https://www.inaturalist.org/observations/40206596,Ben Zerante,Invertebrates,
+3T78D,Leopardus pardalis,17684,Ocelot,,Οσελότος,,,,Terrestrial mammals,LC
+3M25Y,Hippoglossus hippoglossus,17306,Atlantic Halibut,,Ιππόγλωσσος Ατλαντικού,https://inaturalist-open-data.s3.amazonaws.com/photos/196509256/medium.jpg,https://www.inaturalist.org/observations/116414403,Vsevolod Rudyi,Bony fish,NT
+3WXQF,Maccullochella mariensis,16113,Mary River Cod,,,,,,Bony fish,EN
+VN7VJ,Puffinus tenuirostris,15795,Short-tailed Shearwater,,,https://inaturalist-open-data.s3.amazonaws.com/photos/136828700/medium.jpeg,https://www.inaturalist.org/observations/83236445,Miguel A. Casado,Birds,LC
+R3MB,Carcharhinus albimarginatus,14901,Silvertip Shark,,Καρχαρίας με λευκά πτερύγια,,,,Sharks & Rays,VU
+4MF6P,Prionace glauca,14894,Blue Shark,,Γλαυκοκαρχαρίας,https://inaturalist-open-data.s3.amazonaws.com/photos/220488434/medium.jpeg,https://www.inaturalist.org/observations/129721590,Frederico Almada,Sharks & Rays,NT
+5WZLF,Carcharodon carcharias,14516,Great White Shark,,Λευκός καρχαρίας,https://inaturalist-open-data.s3.amazonaws.com/photos/10571121/medium.jpg,https://www.inaturalist.org/observations/7991617,stephencoutts,Sharks & Rays,VU
+3GGF9,Glyphis glyphis,14409,Speartooth Shark,,,,,,Sharks & Rays,VU
+72F33,Limulus polyphemus,14401,Atlantic Horseshoe Crab,,Ξιφόσουρα,https://inaturalist-open-data.s3.amazonaws.com/photos/173778952/medium.jpg,https://www.inaturalist.org/observations/103781676,Rigel Nava,Invertebrates,VU
+3RHCG,Kyphosus vaigiensis,13968,Brassy Drummer,,,,,,Bony fish,LC
+4GK9M,Phoebastria nigripes,13580,Black-footed Albatross,,Άλμπατρος του Βόρειου Ειρηνικού,https://inaturalist-open-data.s3.amazonaws.com/photos/62843720/medium.jpg,https://www.inaturalist.org/observations/39601433,Robin Gwen Agarwal,Birds,NT
+67RQR,Arctocephalus pusillus,12664,Brown Fur Seal,,,,,,Marine mammals,LC
+4JP46,Platycephalus fuscus,12518,Dusky Flathead,,,,,,Bony fish,
+4Y8FV,Somateria spectabilis,11666,King Eider,,Βασιλόπαπια,https://inaturalist-open-data.s3.amazonaws.com/photos/475565250/medium.jpeg,https://www.inaturalist.org/observations/264818360,Vasily Kalinichenko,Birds,LC
+R3MP,Carcharhinus amboinensis,11338,Pigeye Shark,,Καρχαρίας της Ιάβας,,,,Sharks & Rays,VU
+45VLF,Nautilus pompilius,10943,Emperor Nautilus,,Ναυτίλος,,,,Invertebrates,
+3M5LY,Histriophoca fasciata,10849,Ribbon Seal,,Ταινιοφόρος Φώκια,https://inaturalist-open-data.s3.amazonaws.com/photos/11319079/medium.jpeg,https://www.inaturalist.org/observations/8486729,hillanddale,Marine mammals,LC
+6YPTG,Silurus glanis,10300,Wels Catfish,,Γουλιανός,https://inaturalist-open-data.s3.amazonaws.com/photos/216296689/medium.jpg,https://www.inaturalist.org/observations/127414729,Manuel Raab,Bony fish,LC
+3WG7Q,Lutjanus argentimaculatus,9994,Mangrove Red Snapper,,,,,,Bony fish,LC
+4S9R4,Rhinoptera bonasus,9942,Cownose Ray,,,https://inaturalist-open-data.s3.amazonaws.com/photos/345595201/medium.jpeg,https://www.inaturalist.org/observations/196316814,bryndevon404,Sharks & Rays,VU
+R3MV,Carcharhinus brachyurus,9904,Bronze Whaler,,Καρχαρίνος ο βραχύουρος,,,,Sharks & Rays,VU
+4Z2QK,Sphyrna mokarran,9702,Great Hammerhead,,Μεγαλοζύγαινα,,,,Sharks & Rays,CR
+C5LD,Alosa aestivalis,9551,Blueback Shad,,,https://inaturalist-open-data.s3.amazonaws.com/photos/286735362/medium.jpeg,https://www.inaturalist.org/observations/165634438,Jeff Garner,Bony fish,VU
+3G3RC,Girella tricuspidata,9509,Luderick,,,,,,Bony fish,
+33HRJ,Cyprinus carpio,9437,European Carp,,Κυπρίνος,https://inaturalist-open-data.s3.amazonaws.com/photos/2754663/medium.JPG,https://www.inaturalist.org/observations/2461905,lonnyholmes,Bony fish,LC
+75KB4,Pagrus auratus,9099,Australasian Snapper,,Φαγκρί Νέας Ζηλανδίας,,,,Bony fish,LC
+59F36,Trygonorrhina fasciata,9053,Banjo Ray,,,,,,Sharks & Rays,LC
+43MJ7,Mirounga leonina,9033,Southern Elephant Seal,,Θαλάσσιος ελέφαντας,,,,Marine mammals,LC
+4V3MX,Scarus rivulatus,8950,Surf Parrotfish,,Κουρκούνα άσπρη,,,,Bony fish,LC
+6GHZK,Eretmochelys imbricata,8108,Hawksbill Sea Turtle,,Κεραμοχελώνα,,,,Reptiles,CR
+44J42,Mugil cephalus,7599,Sea Mullet,,Κέφαλος,,,,Bony fish,LC
+68ZKG,Carcharhinus fitzroyensis,7587,Creek Whaler,,,,,,Sharks & Rays,LC
+72329,Lethrinus miniatus,7440,Redthroat Emperor,,,,,,Bony fish,LC
+43STZ,Mobula alfredi,7403,Reef Manta Ray,,Σαλάχι μάντα,,,,Sharks & Rays,VU
+5W66M,Asio flammeus,7346,Short-eared Owl,,Βαλτόμπουφος,https://inaturalist-open-data.s3.amazonaws.com/photos/344405593/medium.jpg,https://www.inaturalist.org/observations/195724174,pkondrashov,Birds,LC
+3KLG9,Hemiarius dioctes,7022,Warrior Catfish,,,,,,Bony fish,
+6H29T,Erignathus barbatus,6984,Bearded Seal,,Γενειοφόρος φώκια,https://inaturalist-open-data.s3.amazonaws.com/photos/309399899/medium.jpg,https://www.inaturalist.org/observations/177862083,Sebastián Lescano,Marine mammals,NT
+6VQLC,Plectropomus maculatus,6929,Spotted Coral Grouper,,,,,,Bony fish,LC
+6S8FM,Neoceratodus forsteri,6258,Australian Lungfish,,,,,,Bony fish,EN
+47YCK,Notorynchus cepedianus,6106,Broadnose Sevengill Shark,,,https://inaturalist-open-data.s3.amazonaws.com/photos/15570417/medium.jpg,https://www.inaturalist.org/observations/11036668,rowanwattpringle,Sharks & Rays,VU
+4CVHD,Paragaleus pectoralis,6097,Atlantic Weasel Shark,,,https://inaturalist-open-data.s3.amazonaws.com/photos/304095379/medium.jpeg,https://www.inaturalist.org/observations/175001093,carolina_dlhs,Sharks & Rays,EN
+6TYWF,Pelecanoides urinatrix,6093,Common Diving Petrel,,,https://inaturalist-open-data.s3.amazonaws.com/photos/461796328/medium.jpeg,https://www.inaturalist.org/observations/257430741,ou.wildlife,Birds,LC
+77C9R,Phocoena phocoena,5933,Harbour Porpoise,,Φώκαινα,,,,Marine mammals,LC
+4P9FG,Pseudorca crassidens,5774,False Killer Whale,,Ψευδόρκα,https://inaturalist-open-data.s3.amazonaws.com/photos/167153562/medium.jpg,https://www.inaturalist.org/observations/100173317,fernando_elorriaga,Marine mammals,NT
+4R8GD,Rachycentron canadum,5639,Cobia,,Κόμπια,https://inaturalist-open-data.s3.amazonaws.com/photos/529527003/medium.jpg,https://www.inaturalist.org/observations/294201524,Leonardo Pereira,Bony fish,LC
+3YWY2,Megaptera novaeangliae,5584,Humpback Whale,,Μεγάπτερη φάλαινα,,,,Marine mammals,LC
+6NVLC,Lampetra fluviatilis,5505,European River Lamprey,,Ποταμολάμπραινα,https://inaturalist-open-data.s3.amazonaws.com/photos/492846946/medium.jpeg,https://www.inaturalist.org/observations/274114540,Światopelk Smoczyński,Bony fish,NT
+R3PY,Carcharhinus obscurus,5494,Dusky Shark,,Σκοτεινός καρχαρίας,https://inaturalist-open-data.s3.amazonaws.com/photos/10584611/medium.jpg,https://www.inaturalist.org/observations/8000290,stephencoutts,Sharks & Rays,EN
+34XB9,Dermochelys coriacea,5471,Leatherback Sea Turtle,,Δερματοχελώνα,,,,Reptiles,VU
+4JP3K,Platycephalus caeruleopunctatus,5163,Bluespotted Flathead,,,,,,Bony fish,
+3TB2H,Lepidochelys olivacea,5076,Olive Ridley Sea Turtle,,Λεπιδόχελυς του Ειρηνικού,,,,Reptiles,VU
+37ZY2,Dugong dugon,5040,Dugong,,Ντιγκόνγκ,,,,Marine mammals,VU
+4SRJ3,Rhynchobatus australiae,4963,Whitespotted Guitarfish,,,,,,Sharks & Rays,CR
+4WV9T,Seriola lalandi,4851,Yellowtail Kingfish,,Μαγιάτικο της Αυστραλίας,,,,Bony fish,LC
+3RHCD,Kyphosus sydneyanus,4709,Silver Drummer,,,,,,Bony fish,
+6YMV2,Siganus doliatus,4661,Barred Rabbitfish,,,,,,Bony fish,LC
+R2QF,Caranx ignobilis,4549,Giant Trevally,,,,,,Bony fish,LC
+5Z5T3,Ciconia ciconia,4461,European White Stork,,Λευκοπελαργός,https://inaturalist-open-data.s3.amazonaws.com/photos/593174925/medium.jpg,https://www.inaturalist.org/observations/327419069,Tim Taslimi,Birds,LC
+6RRD2,Morone americana,4396,White Perch,,Λευκή πέρκα,https://inaturalist-open-data.s3.amazonaws.com/photos/209801095/medium.jpg,https://www.inaturalist.org/observations/123818203,Peter Wilson,Bony fish,LC
+9BTZ,Acinonyx jubatus,4355,Cheetah,,Γατόπαρδος,https://inaturalist-open-data.s3.amazonaws.com/photos/175608470/medium.jpeg,https://www.inaturalist.org/observations/104758896,Justin Ponder,Terrestrial mammals,VU
+6ZDRX,Squalius cephalus,4261,European Chub,,Κέφαλος,https://inaturalist-open-data.s3.amazonaws.com/photos/401038364/medium.jpg,https://www.inaturalist.org/observations/226146898,robertspiering,Bony fish,LC
+3WG87,Lutjanus bohar,4127,Two-spot Red Snapper,,,,,,Bony fish,LC
+4B2S5,Othos dentex,4127,Harlequin Fish,,,,,,Bony fish,LC
+746KS,Neoarius graeffei,3917,Blue Catfish,,,,,,Bony fish,LC
+6XG35,Salvelinus fontinalis,3855,Brook Trout,,Σαλβελίνος,https://inaturalist-open-data.s3.amazonaws.com/photos/242646325/medium.jpg,https://www.inaturalist.org/observations/211499360,Bruce Deagle,Bony fish,LC
+4SDDQ,Rhizoprionodon taylori,3836,Australian Sharpnose Shark,,,,,,Sharks & Rays,LC
+4DZC4,Pastinachus ater,3803,Broad Cowtail Stingray,,,,,,Sharks & Rays,VU
+6ZSDC,Sterna paradisaea,3463,Arctic Tern,,Χιονογλάρονο,https://inaturalist-open-data.s3.amazonaws.com/photos/344300361/medium.jpg,https://www.inaturalist.org/observations/195679642,Blake Ross,Birds,LC
+PQYN,Callinectes sapidus,3346,Atlantic Blue Crab,,Γαλαζοκάβουρας,https://inaturalist-open-data.s3.amazonaws.com/photos/226510112/medium.jpg,https://www.inaturalist.org/observations/133016863,chantel_pence,Invertebrates,
+YD9T,Coregonus huntsmani,3310,Atlantic Whitefish,,Ατλαντικός λευκόψαρος,https://inaturalist-open-data.s3.amazonaws.com/photos/29564925/medium.jpeg,https://www.inaturalist.org/observations/19243337,Ian Manning,Bony fish,CR
+4HH4H,Physeter macrocephalus,3166,Sperm Whale,,Φυσητήρας,,,,Marine mammals,VU
+453D6,Myliobatis tenuicaudatus,3110,Southern Eagle Ray,,,,,,Sharks & Rays,LC
+4K5TZ,Plectropomus laevis,2933,Blacksaddle Coralgrouper,,,,,,Bony fish,LC
+4JNBQ,Platichthys flesus,2804,European Flounder,,Φασί,https://inaturalist-open-data.s3.amazonaws.com/photos/84144698/medium.jpg,https://inaturalist-open-data.s3.amazonaws.com/photos/84144698/medium.jpg,charlienaysmith,Bony fish,LC
+3WJ93,Lycalopex culpaeus,2796,Culpeo,,Αλεπού των Άνδεων,,,,Terrestrial mammals,LC
+44QZR,Mustelus antarcticus,2689,Gummy Shark,,Γαλέος της Ανταρκτικής,,,,Sharks & Rays,LC
+3G6MZ,Glaucostegus typus,2680,Giant Guitarfish,,,,,,Sharks & Rays,CR
+3TB2G,Lepidochelys kempii,2626,Kemp's Ridley Sea Turtle,,Θαλασσοχελώνa του Kemp,,,,Reptiles,CR
+YFBQ,Coris aygula,2599,Clown Coris,,,,,,Bony fish,LC
+64WLF,Aegypius monachus,2450,Cinereous Vulture,,Μαυρόγυπας,https://inaturalist-open-data.s3.amazonaws.com/photos/547875364/medium.jpg,https://www.inaturalist.org/observations/303944080,Сергей,Birds,NT
+3G3QR,Girella elevata,2373,Rock Blackfish,,,,,,Bony fish,
+57TWN,Trachystoma petardi,2373,Pinkeye Mullet,,,,,,Bony fish,LC
+DD356,Turrum fulvoguttatum,2306,Yellow Spotted Trevally,,,,,,Bony fish,LC
+4B23F,Otaria byronia,2208,South American Sea Lion,,Θαλάσσιο Λιοντάρι Της Νότιας Αμερικής,,,,Marine mammals,LC
+6YZZ2,Sphyrna lewini,2077,Scalloped Hammerhead,,Κτενοζύγαινα,,,,Sharks & Rays,CR
+47WHB,Notolabrus tetricus,1951,Bluethroat Wrasse,,,,,,Bony fish,LC
+3S2F7,Lamna nasus,1814,Porbeagle,,Λάμνα,https://inaturalist-open-data.s3.amazonaws.com/photos/261649646/medium.jpg,https://www.inaturalist.org/observations/151628207,mumudu,Sharks & Rays,VU
+7DV6W,Urogymnus dalyensis,1788,Freshwater Whipray,,,,,,Sharks & Rays,LC
+56P77,Thunnus maccoyii,1673,Southern Bluefin Tuna,,Νότιος ερυθρός τόνος,,,,Bony fish,EN
+3LY2Y,Himantura australis,1618,Reticulated Whipray,,,,,,Sharks & Rays,LC
+KVVCX,Taeniura lymma,1520,Bluespotted Fantail Ray,,,,,,Sharks & Rays,LC
+R3N4,Carcharhinus cautus,1502,Nervous Shark,,,,,,Sharks & Rays,LC
+5WZK9,Carcharias taurus,1336,Sand Tiger Shark,,Καρχαρίας ταύρος,,,,Sharks & Rays,CR
+PK4H,Calidris ruficollis,1288,Red-necked Stint,,Κοκκινόλαιμη Σκαλίδρα,https://inaturalist-open-data.s3.amazonaws.com/photos/209826148/medium.jpg,https://www.inaturalist.org/observations/123832758,Cameron Eckert,Birds,NT
+4N6GF,Protonibea diacanthus,1275,Black-spotted Croaker,,Σηκιός Μαύρος,,,,Bony fish,NT
+72PR5,Lutjanus johnii,1268,Golden Snapper,,,,,,Bony fish,LC
+6G5Q9,Epinephelus multinotatus,1265,Rankin Cod,,Ροφός Ινδικού,,,,Bony fish,LC
+3KNQX,Hemigaleus australiensis,1223,Australian Weasel Shark,,,,,,Sharks & Rays,LC
+3F43C,Galeorhinus galeus,1217,School Shark,,Γαλέος,,,,Sharks & Rays,CR
+4ZP9Z,Stegostoma tigrinum,1165,Zebra Shark,,Καρχαρίας ζέβρα,,,,Sharks & Rays,NT
+3KTRC,Hemitrygon fluviorum,1146,Estuary Stingray,,,,,,Sharks & Rays,VU
+6TTYF,Pateobatis fai,1090,Pink Whipray,,,,,,Sharks & Rays,VU
+4TTHT,Rutilus rutilus,1037,Common Roach,,Τσιρόνι,https://inaturalist-open-data.s3.amazonaws.com/photos/523855041/medium.jpg,https://www.inaturalist.org/observations/291170776,michal_michlewicz,Bony fish,LC
+765YF,Pateobatis jenkinsii,998,Jenkins' Whipray,,,,,,Sharks & Rays,EN
+399W4,Eleutheronema tetradactylum,993,Fourfinger Threadfin,,,,,,Bony fish,
+PK47,Calidris ferruginea,962,Curlew Sandpiper,,Δρεπανοσκαλίδρα,,,,Birds,VU
+3N89S,Hydrophis hardwickii,845,Hardwicke’s Spine-bellied Sea Snake,,,,,,Reptiles,
+4MK2X,Pristis pristis,838,Common Sawfish,,Πρίστης μικρόδοντος,,,,Sharks & Rays,CR
+3GL7L,Gnathanodon speciosus,820,Golden Trevally,,Χρυσό τρεβάλι,,,,Bony fish,LC
+4VTWY,Scomberomorus commerson,809,Narrow-banded Spanish Mackerel,,Ταινιοπαλαμίδα,,,,Bony fish,NT
+7FHQ3,Variola louti,795,Yellow-edged Lyretail,,,,,,Bony fish,LC
+4S7H3,Rhincodon typus,784,Whale Shark,,Φαλαινοκαρχαρίας,,,,Sharks & Rays,EN
+722NB,Lethrinus atkinsoni,757,Yellowtail Emperor,,,,,,Bony fish,LC
+3XDNJ,Maculabatis astra,633,Blackspotted Whipray,,,,,,Sharks & Rays,NT
+R3NH,Carcharhinus galapagensis,580,Galápagos Shark,,Καρχαρίας των Γκαλαπάγκος,,,,Sharks & Rays,LC
+SWGW,Cerdocyon thous,559,Crab-eating Fox,,Καβουροφάγα αλεπού,,,,Terrestrial mammals,LC
+4W584,Scylla serrata,544,Mud Crab,,,,,,Invertebrates,
+6PXRB,Lichia amia,496,Leerfish,,Λίτζα,https://inaturalist-open-data.s3.amazonaws.com/photos/190268220/medium.jpg,https://www.inaturalist.org/observations/112637919,Roberto Pillon,Bony fish,LC
+6SN65,Oncorhynchus clarkii,493,Coastal Cutthroat Trout,,Αμερικανική πρασινόρραχη πέστροφα,https://inaturalist-open-data.s3.amazonaws.com/photos/5295841/medium.jpeg,https://www.inaturalist.org/observations/4408188,Justin Garwood,Bony fish,LC
+69Z8N,Chlorurus sordidus,492,,,,,,,,LC
+79FQR,Salvelinus malma,460,Dolly Varden,,Σαλβελίνος του Ειρηνικού,https://inaturalist-open-data.s3.amazonaws.com/photos/106187399/medium.jpg,https://www.inaturalist.org/observations/65925069,Ashley M Bradford,Bony fish,LC
+4JP39,Platycephalus bassensis,448,,,,,,,,
+KV3M9,Carcharhinus sorrah,435,,,,,,,,NT
+4PWKC,Pterodroma cervicalis,430,White-necked Petrel,,,,,,Birds,VU
+4SRJD,Rhynchobatus laevis,430,,,,,,,,CR
+6B72Q,Coryphaena hippurus,393,,,Κυνηγός,,,,,LC
+3NMJH,Hypanus sabinus,388,Atlantic Stingray,,,https://inaturalist-open-data.s3.amazonaws.com/photos/111421489/medium.jpg,https://www.inaturalist.org/observations/68761309,Dylan Jacques-Fero,Sharks & Rays,LC
+KF8T,Balaenoptera musculus,386,Blue Whale,,Γαλάζια φάλαινα,,,,Marine mammals,EN
+3N899,Hydrophis elegans,358,,,,,,,,LC
+3W9KT,Loxodon macrorhinus,322,,,,,,,,NT
+74M8M,Onychoprion fuscatus,310,Sooty Tern,,Δρεπανίδα,,,,Birds,LC
+5XJXK,Cephaloscyllium laticeps,299,,,,,,,,LC
+44QZX,Mustelus canis,284,Dusky Smooth-Hound,,,https://inaturalist-open-data.s3.amazonaws.com/photos/77336365/medium.jpg,https://www.inaturalist.org/observations/48730813,Phil Colarusso,Sharks & Rays,NT
+3G9Z4,Globicephala macrorhynchus,277,Short-finned Pilot Whale,,Τροπικό μαυροδέλφινο,https://inaturalist-open-data.s3.amazonaws.com/photos/159806977/medium.jpeg,https://www.inaturalist.org/observations/96210120,dnoby,Marine mammals,LC
+4JP64,Platycephalus richardsoni,276,,,,,,,,
+7DV79,Urogymnus asperrimus,246,,,,,,,,EN
+R3N2,Carcharhinus brevipinna,224,Spinner Shark,,Καρχαρίνος κοντόφτερος,https://inaturalist-open-data.s3.amazonaws.com/photos/141413830/medium.jpg,https://www.inaturalist.org/observations/85898648,Niall Perrins,Sharks & Rays,VU
+FWQ8,Aprion virescens,220,,,Πράσινη συναγρίδα Ινδο-Ειρηνικού,,,,,LC
+PVZD,Callorhinchus milii,204,,,,,,,,LC
+6QPQS,Lutjanus sebae,167,,,Αυτοκρατορικός κόκκινος λουτιάνος,,,,,LC
+4668K,Nemadactylus douglasii,165,,,Νημαδάκτυλος,,,,,
+73N5T,Mobula birostris,162,,,,,,,,EN
+59F2Z,Trygonoptera testacea,158,,,,,,,,NT
+6G5QS,Epinephelus tauvina,154,,,,,,,,
+5X2CG,Brachaelurus waddi,145,,,,,,,,LC
+CQKB,Ameiurus catus,129,,,,,,,,LC
+DGB7,Anarhichas lupus,120,Atlantic Wolffish,,Λυκόψαρο,https://inaturalist-open-data.s3.amazonaws.com/photos/107915036/medium.jpg,https://www.inaturalist.org/observations/66879325,Alex Shure,Bony fish,
+KF8M,Balaenoptera borealis,112,,,Βορειοφάλαινα,,,,,EN
+74SN4,Orectolobus halei,112,,,,,,,,LC
+45QH5,Naso unicornis,108,,,,,,,,LC
+8YV6,Acanthopagrus butcheri,106,,,Μαύρη τσιπούρα Αυστραλίας,,,,,LC
+65ZNH,Amblyraja radiata,104,Thorny Skate,,Ακτινόβατος,https://inaturalist-open-data.s3.amazonaws.com/photos/25578838/medium.jpg,https://www.inaturalist.org/observations/16927157,Tatiana Antokhina,Sharks & Rays,VU
+R3N7,Carcharhinus coatesi,100,,,,,,,,LC
+4P9SS,Pseudorhombus arsius,94,,,,,,,,LC
+4LQWC,Pomatomus saltatrix,92,Bluefish,,Γοφάρι,https://inaturalist-open-data.s3.amazonaws.com/photos/14722080/medium.jpg,https://www.inaturalist.org/observations/10566359,Peter,Bony fish,VU
+6XG2S,Salvelinus confluentus,89,Bull Trout,,,https://inaturalist-open-data.s3.amazonaws.com/photos/231323307/medium.jpeg,https://www.inaturalist.org/observations/135611166,Jon David Nelson,Bony fish,VU
+6HGWQ,Eusphyra blochii,85,,,Ζύγαινα,,,,,CR
+6G63B,Epinephelus rivulatus,74,,,,,,,,LC
+77PMW,Platycephalus laevigatus,72,,,,,,,,
+4JP49,Platycephalus grandispinis,71,,,,,,,,
+DZZV,Anguilla australis,70,,,Κοντόπτερο αυστραλιανό χέλι,,,,,NT
+5VS33,Arctocephalus australis,52,South American Fur Seal,,Γουνοφόρα Φώκια Της Νέας Ζηλανδίας,,,,Marine mammals,LC
+42KLY,Meuschenia freycineti,52,,,,,,,,LC
+6K4PG,Furgaleus macki,50,,,,,,,,LC
+6JV2L,Gadus macrocephalus,50,Pacific Cod,,Μπακαλιάρος,https://inaturalist-open-data.s3.amazonaws.com/photos/340745230/medium.jpg,https://www.inaturalist.org/observations/193926226,dpcmiller,Bony fish,
+4XDQL,Sillago sihama,50,,,Σίλαγγος,,,,,LC
+66XW7,Anoxypristis cuspidata,42,,,Πριονόψαρο,,,,,CR
+42WJ3,Microgadus tomcod,42,Atlantic Tomcod,,,https://inaturalist-open-data.s3.amazonaws.com/photos/350861616/medium.jpg,https://www.inaturalist.org/observations/199002989,Flore du quartier,Bony fish,LC
+6V6DZ,Petromyzon marinus,22,Sea Lamprey,,Πετρόμυζον,https://inaturalist-open-data.s3.amazonaws.com/photos/285915486/medium.jpeg,https://www.inaturalist.org/observations/165189560,Jill DeVito,Bony fish,LC
+4LQKY,Pomadasys commersonnii,20,Small-spotted Grunter,,,https://inaturalist-open-data.s3.amazonaws.com/photos/173395767/medium.jpeg,https://www.inaturalist.org/observations/103583156,Craig Peter,Bony fish,LC
+465R9,Nelusetta ayraud,19,,,,,,,,LC
+3PB88,Ictalurus punctatus,18,,,,,,,,LC
+6MJRC,Hydrophis major,16,,,,,,,,LC
+3RFCC,Kuhlia rupestris,16,,,,,,,,LC
+3QDF9,Isurus oxyrinchus,14,,,Ρυγχοκαρχαρίας,,,,,EN
+4DRYX,Parophrys vetulus,14,English Sole,,,https://inaturalist-open-data.s3.amazonaws.com/photos/434065415/medium.jpeg,https://www.inaturalist.org/observations/243428500,André Giraldi,Bony fish,LC
+79VXT,Scarus ghobban,6,,,Ξενικός σκάρος,,,,,LC
+4MK37,Pristis zijsron,5,,,Πριονόψαρο,,,,,CR
+4353G,Micropterus salmoides,5,,,,,,,,LC
+4Q9YG,Ptychocheilus grandis,5,,,,,,,,LC
+65V4P,Aipysurus duboisii,4,,,,,,,,LC
+3KRYJ,Hemipristis elongata,4,,,,,,,,EN
+3LY3S,Himantura leoparda,4,,,,,,,,EN
+4JP6F,Platycephalus speculator,3,,,,,,,,
+56P7Q,Thunnus thynnus,3,Atlantic Bluefin Tuna,,Ερυθρός τόνος,https://inaturalist-open-data.s3.amazonaws.com/photos/161933338/medium.jpeg,https://www.inaturalist.org/observations/97375616,Sylvain Le Bris,Bony fish,LC
+5TV4N,Aipysurus laevis,2,,,,,,,,LC
+R3MH,Carcharhinus amblyrhynchoides,2,,,,,,,,VU
+4MJWG,Pristiophorus nudipinnis,2,,,,,,,,LC
+4VTXG,Scomberomorus maculatus,2,Atlantic Spanish Mackerel,,Σκουμπρί Ισπανίας,https://inaturalist-open-data.s3.amazonaws.com/photos/414572804/medium.jpg,https://www.inaturalist.org/observations/233287345,Frank Krasovec,Bony fish,LC
+8YVK,Acanthopagrus morrisonae,1,,,,,,,,LC
+R2QX,Caranx lugubris,1,,,,,,,,LC
+35WKD,Didelphis marsupialis,1,Southern Opossum,,Κοινό Πόσουμ,,,,Terrestrial mammals,LC
+3M35P,Hipposcarus longiceps,1,,,,,,,,LC
+4SRJH,Rhynchobatus palpebratus,1,,,,,,,,NT
+GMX9,Ariopsis felis,1,,,,,,,,LC
+6KFCS,Ginglymostoma cirratum,0,Nurse Shark,,Καρχαρίας τροφός,https://inaturalist-open-data.s3.amazonaws.com/photos/439764980/medium.jpeg,https://www.inaturalist.org/observations/246346292,CONANP_Reserva de la Biosfera Banco Chinchorro,Sharks & Rays,VU
+464NF,Negaprion brevirostris,0,Lemon Shark,,Κίτρινος καρχαρίας,https://inaturalist-open-data.s3.amazonaws.com/photos/628189776/medium.jpg,https://www.inaturalist.org/observations/344753345,Steve Cappell,Sharks & Rays,VU
